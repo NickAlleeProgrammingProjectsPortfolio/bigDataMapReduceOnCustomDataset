@@ -8,7 +8,7 @@ for line in input:
     # 14 vars
     try:
         user_id, tmc, severity, start_time, end_time, city, state, timezone, visibility, temperature, humidity, wind_speed, precipitation, weather_condition = listOfData
-        output.write(temperature + "\t" + state + "\t" + severity + "\t" + weather_condition + "\t" + city + "\t" +precipitation + "\n")
+        output.write("\n"+ city + "\t" + state + "\t" + temperature )
     except:
         print("skipped")
     #print(severity,state,weather_condition)
