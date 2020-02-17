@@ -1,0 +1,1 @@
+ID	TMC	Severity	Start_Time	End_Time	City	State	Timezone	Visibility(mi)	Temperature(F)	Humidity(%)	Wind_Speed(mph)	Precipitation(in)	Weather_Condition
