@@ -44,7 +44,7 @@ For all states, I will find the highest severity.
 ### Nick Alee
 
 ##### The Question
-For all accidents, I will find the most common temperature.
+For all accidents, I will find the cities with the most common (median) temperature.
 
 ##### The Solution
 1. Mapper Input - 
