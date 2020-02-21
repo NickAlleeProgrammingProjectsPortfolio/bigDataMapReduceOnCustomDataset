@@ -4,7 +4,6 @@ output = open("mapped.txt","w")
 
 for line in input:
     listOfData = line.strip().split("\t")
-    print(listOfData)
     # 14 vars
     try:
         user_id, tmc, severity, start_time, end_time, city, state, timezone, visibility, temperature, humidity, wind_speed, precipitation, weather_condition = listOfData

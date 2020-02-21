@@ -1,3 +1,4 @@
+
 Acampo	CA	55
 Acampo	CA	57
 Akron	OH	12
@@ -2718,8 +2719,7 @@ Valencia	CA	72
 Valencia	CA	73
 Valencia	CA	74
 Valencia	CA	78
-Valencia	CA	80
-Valencia	CA	81
+Valencia	CA	80Valencia	CA	81
 Valencia	CA	82
 Valencia	CA	84
 Valencia	CA	84

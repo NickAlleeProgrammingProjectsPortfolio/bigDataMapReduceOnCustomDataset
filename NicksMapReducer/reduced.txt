@@ -468,3 +468,694 @@ Yorkville	CA	50.81249999999999
 Yountville	CA	55.9
 Yucaipa	CA	57.9
 Yucaipa	CA	76.0
+Akron	OH	56.0
+Alamo	CA	26.225
+Alta	CA	57.95333333333333
+American Canyon	CA	29.05
+Angels Camp	CA	58.25555555555555
+Angwin	CA	44.6
+Antioch	CA	57.0
+Applegate	CA	56.011111111111106
+Aptos	CA	57.2
+Arbuckle	CA	51.93333333333334
+Aromas	CA	55.975
+Auburn	CA	52.0
+Banning	CA	52.1
+Barberton	OH	82.5
+Bay Point	CA	33.7
+Beaumont	CA	53.88333333333333
+Belmont	CA	83.75
+Benicia	CA	48.2
+Berkeley	CA	55.879999999999995
+Blanchester	OH	55.608695652173914
+Bloomingburg	OH	28.9
+Bodega Bay	CA	60.1
+Boulder Creek	CA	57.9
+Bowling Green	OH	53.36666666666667
+Brecksville	OH	34.1
+Brentwood	CA	25.0
+Brisbane	CA	53.36666666666667
+Burlingame	CA	57.9
+Byron	CA	53.79375
+Cabazon	CA	51.58
+Calimesa	CA	73.5
+Calistoga	CA	70.0
+Cambridge	OH	54.96666666666667
+Cameron Park	CA	46.0
+Campbell	CA	47.3
+Canyon Country	CA	57.45384615384615
+Capitola	CA	79.3125
+Carmel	CA	52.0
+Carmel Valley	CA	53.05
+Carroll	OH	55.0
+Castaic	CA	34.95
+Castro Valley	CA	72.84615384615384
+Castroville	CA	57.34411764705882
+Cazadero	CA	67.33333333333333
+Ceres	CA	60.1
+Clarksburg	CA	58.63333333333333
+Clayton	CA	48.0
+Clearlake Oaks	CA	51.1
+Cleveland	OH	57.9
+Cloverdale	CA	22.933333333333334
+Colfax	CA	56.725
+Columbus	OH	51.79999999999999
+Concord	CA	31.140000000000004
+Cool	CA	55.97333333333333
+Copperopolis	CA	50.9
+Crockett	CA	52.400000000000006
+Crows Landing	CA	54.699999999999996
+Cupertino	CA	59.0
+Daly City	CA	56.67272727272727
+Danville	CA	55.11333333333334
+Davis	CA	56.62380952380952
+Dayton	OH	52.7
+Denair	CA	38.63582089552239
+Discovery Bay	CA	46.05
+Dixon	CA	57.0
+Dos Palos	CA	47.942857142857136
+Downieville	CA	52.5
+Dublin	CA	26.1
+Dunnigan	CA	50.48888888888889
+El Cerrito	CA	56.666666666666664
+El Dorado	CA	46.0
+El Sobrante	CA	51.8
+Elk Grove	CA	55.02
+Emeryville	CA	53.96500000000002
+Emigrant Gap	CA	54.275
+Escalon	CA	29.933333333333334
+Fairborn	OH	56.7
+Fairfield	CA	31.866666666666664
+Findlay	OH	56.76976744186047
+Firebaugh	CA	27.0
+Forest Falls	CA	53.666666666666664
+Foresthill	CA	84.0
+Forestville	CA	48.56
+Fraziers Bottom	WV	58.975
+Freedom	CA	49.0
+Fremont	CA	50.0
+French Camp	CA	55.77692307692307
+Fulton	CA	54.166666666666664
+Gallipolis	OH	56.45
+Galt	CA	66.0
+Geyserville	CA	52.60909090909092
+Gonzales	CA	48.0
+Grass Valley	CA	66.9
+Greenwood	CA	41.6
+Gualala	CA	55.4
+Guerneville	CA	50.45
+Half Moon Bay	CA	48.333333333333336
+Hayward	CA	57.199999999999996
+Healdsburg	CA	56.62040816326531
+Hemet	CA	53.36
+Hercules	CA	85.66666666666667
+Hollister	CA	54.90833333333333
+Hopland	CA	62.6
+Hughson	CA	50.95
+Independence	OH	68.0
+Isleton	CA	36.03333333333333
+Jackson	CA	52.0
+Jamestown	CA	34.7
+Jenner	CA	46.4
+Johnstown	OH	53.63333333333333
+Kelseyville	CA	37.9
+Lafayette	CA	55.0
+Lakeport	CA	57.56153846153847
+Lathrop	CA	46.2
+Lebanon	OH	53.368750000000006
+Lincoln	CA	21.0
+Linden	CA	46.4
+Livermore	CA	60.29999999999999
+Lodi	CA	55.43111111111112
+Los Altos	CA	55.32916666666667
+Los Banos	CA	59.11
+Los Gatos	CA	51.96666666666667
+Lower Lake	CA	56.03456790123456
+Lucerne	CA	41.0
+Mansfield	OH	54.95
+Manteca	CA	23.0
+Marina	CA	57.74285714285714
+Martinez	CA	53.73333333333333
+Mendocino	CA	55.28709677419355
+Mendota	CA	55.9
+Merced	CA	55.0
+Miamisburg	OH	48.0
+Middletown	CA	42.044444444444444
+Millbrae	CA	52.333333333333336
+Milpitas	CA	52.45714285714286
+Modesto	CA	56.98181818181818
+Mokelumne Hill	CA	54.686666666666675
+Monterey	CA	57.2
+Moraine	OH	55.775
+Moss Beach	CA	43.06666666666666
+Moss Landing	CA	48.2
+Mountain View	CA	53.95
+Napa	CA	57.275000000000006
+Nevada City	CA	55.36538461538461
+Newcastle	CA	34.519999999999996
+Newhall	CA	50.9
+Newman	CA	85.0
+Oakland	CA	51.1
+Oberlin	OH	54.749374999999965
+Occidental	CA	30.9
+Oregonia	OH	56.45
+Orinda	CA	21.0
+Oroville	CA	56.9
+Pacheco	CA	52.661538461538456
+Pacifica	CA	57.0
+Patterson	CA	54.0
+Petaluma	CA	48.9
+Pickerington	OH	53.37499999999999
+Pinole	CA	46.05
+Piqua	OH	53.94000000000001
+Pittsburg	CA	42.8
+Placerville	CA	57.45384615384615
+Pleasant Grove	CA	48.83529411764706
+Pleasant Hill	CA	51.8
+Pleasanton	CA	57.8875
+Plymouth	CA	55.441379310344836
+Pollock Pines	CA	44.6
+Pope Valley	CA	42.800000000000004
+Porter Ranch	CA	61.0
+Potter Valley	CA	79.83333333333333
+Rescue	CA	59.0
+Reynoldsburg	OH	55.4
+Richmond	CA	26.7
+Ripon	CA	55.14242424242423
+Rocklin	CA	57.220000000000006
+Rodeo	CA	50.36
+Rohnert Park	CA	57.892307692307696
+Royal Oaks	CA	44.6
+Sabina	OH	52.333333333333336
+Sacramento	CA	19.9
+Saint Helena	CA	54.0278625954199
+Salida	CA	55.779999999999994
+Salinas	CA	51.25
+San Andreas	CA	62.01111111111111
+San Bruno	CA	43.400000000000006
+San Carlos	CA	58.32666666666667
+San Francisco	CA	50.0
+San Jacinto	CA	54.9857142857143
+San Jose	CA	79.0
+San Leandro	CA	55.68203592814373
+San Lorenzo	CA	59.003703703703714
+San Mateo	CA	56.099999999999994
+San Pablo	CA	52.25
+San Ramon	CA	54.88571428571429
+Santa Clara	CA	59.87647058823529
+Santa Clarita	CA	54.01538461538462
+Santa Cruz	CA	74.5
+Santa Rosa	CA	54.39047619047619
+Sausalito	CA	53.960674157303394
+Scotts Valley	CA	55.785714285714285
+Seaside	CA	54.42857142857143
+Sebastopol	CA	55.05
+Shingle Springs	CA	55.666666666666664
+Sierra City	CA	46.91428571428572
+Simi Valley	CA	32.0
+Smartsville	CA	79.83333333333333
+Soda Springs	CA	93.0
+Sonoma	CA	28.96
+Soquel	CA	48.199999999999996
+South San Francisco	CA	54.58
+Springboro	OH	55.01666666666667
+Springfield	OH	21.0
+Stevenson Ranch	CA	55.9
+Stockton	CA	82.71428571428571
+Strongsville	OH	56.31052631578947
+Sunnyvale	CA	32.0
+Sunol	CA	54.525
+Sutter Creek	CA	58.61538461538461
+Tracy	CA	51.8
+Turlock	CA	55.41346153846154
+Ukiah	CA	55.0
+Union City	CA	51.58
+Vacaville	CA	54.50833333333333
+Valencia	CA	52.07272727272726
+Akron	OH	56.0
+Alamo	CA	26.225
+Alta	CA	57.95333333333333
+American Canyon	CA	29.05
+Angels Camp	CA	58.25555555555555
+Angwin	CA	44.6
+Antioch	CA	57.0
+Applegate	CA	56.011111111111106
+Aptos	CA	57.2
+Arbuckle	CA	51.93333333333334
+Aromas	CA	55.975
+Auburn	CA	52.0
+Banning	CA	52.1
+Barberton	OH	82.5
+Bay Point	CA	33.7
+Beaumont	CA	53.88333333333333
+Belmont	CA	83.75
+Benicia	CA	48.2
+Berkeley	CA	55.879999999999995
+Blanchester	OH	55.608695652173914
+Bloomingburg	OH	28.9
+Bodega Bay	CA	60.1
+Boulder Creek	CA	57.9
+Bowling Green	OH	53.36666666666667
+Brecksville	OH	34.1
+Brentwood	CA	25.0
+Brisbane	CA	53.36666666666667
+Burlingame	CA	57.9
+Byron	CA	53.79375
+Cabazon	CA	51.58
+Calimesa	CA	73.5
+Calistoga	CA	70.0
+Cambridge	OH	54.96666666666667
+Cameron Park	CA	46.0
+Campbell	CA	47.3
+Canyon Country	CA	57.45384615384615
+Capitola	CA	79.3125
+Carmel	CA	52.0
+Carmel Valley	CA	53.05
+Carroll	OH	55.0
+Castaic	CA	34.95
+Castro Valley	CA	72.84615384615384
+Castroville	CA	57.34411764705882
+Cazadero	CA	67.33333333333333
+Ceres	CA	60.1
+Clarksburg	CA	58.63333333333333
+Clayton	CA	48.0
+Clearlake Oaks	CA	51.1
+Cleveland	OH	57.9
+Cloverdale	CA	22.933333333333334
+Colfax	CA	56.725
+Columbus	OH	51.79999999999999
+Concord	CA	31.140000000000004
+Cool	CA	55.97333333333333
+Copperopolis	CA	50.9
+Crockett	CA	52.400000000000006
+Crows Landing	CA	54.699999999999996
+Cupertino	CA	59.0
+Daly City	CA	56.67272727272727
+Danville	CA	55.11333333333334
+Davis	CA	56.62380952380952
+Dayton	OH	52.7
+Denair	CA	38.63582089552239
+Discovery Bay	CA	46.05
+Dixon	CA	57.0
+Dos Palos	CA	47.942857142857136
+Downieville	CA	52.5
+Dublin	CA	26.1
+Dunnigan	CA	50.48888888888889
+El Cerrito	CA	56.666666666666664
+El Dorado	CA	46.0
+El Sobrante	CA	51.8
+Elk Grove	CA	55.02
+Emeryville	CA	53.96500000000002
+Emigrant Gap	CA	54.275
+Escalon	CA	29.933333333333334
+Fairborn	OH	56.7
+Fairfield	CA	31.866666666666664
+Findlay	OH	56.76976744186047
+Firebaugh	CA	27.0
+Forest Falls	CA	53.666666666666664
+Foresthill	CA	84.0
+Forestville	CA	48.56
+Fraziers Bottom	WV	58.975
+Freedom	CA	49.0
+Fremont	CA	50.0
+French Camp	CA	55.77692307692307
+Fulton	CA	54.166666666666664
+Gallipolis	OH	56.45
+Galt	CA	66.0
+Geyserville	CA	52.60909090909092
+Gonzales	CA	48.0
+Grass Valley	CA	66.9
+Greenwood	CA	41.6
+Gualala	CA	55.4
+Guerneville	CA	50.45
+Half Moon Bay	CA	48.333333333333336
+Hayward	CA	57.199999999999996
+Healdsburg	CA	56.62040816326531
+Hemet	CA	53.36
+Hercules	CA	85.66666666666667
+Hollister	CA	54.90833333333333
+Hopland	CA	62.6
+Hughson	CA	50.95
+Independence	OH	68.0
+Isleton	CA	36.03333333333333
+Jackson	CA	52.0
+Jamestown	CA	34.7
+Jenner	CA	46.4
+Johnstown	OH	53.63333333333333
+Kelseyville	CA	37.9
+Lafayette	CA	55.0
+Lakeport	CA	57.56153846153847
+Lathrop	CA	46.2
+Lebanon	OH	53.368750000000006
+Lincoln	CA	21.0
+Linden	CA	46.4
+Livermore	CA	60.29999999999999
+Lodi	CA	55.43111111111112
+Los Altos	CA	55.32916666666667
+Los Banos	CA	59.11
+Los Gatos	CA	51.96666666666667
+Lower Lake	CA	56.03456790123456
+Lucerne	CA	41.0
+Mansfield	OH	54.95
+Manteca	CA	23.0
+Marina	CA	57.74285714285714
+Martinez	CA	53.73333333333333
+Mendocino	CA	55.28709677419355
+Mendota	CA	55.9
+Merced	CA	55.0
+Miamisburg	OH	48.0
+Middletown	CA	42.044444444444444
+Millbrae	CA	52.333333333333336
+Milpitas	CA	52.45714285714286
+Modesto	CA	56.98181818181818
+Mokelumne Hill	CA	54.686666666666675
+Monterey	CA	57.2
+Moraine	OH	55.775
+Moss Beach	CA	43.06666666666666
+Moss Landing	CA	48.2
+Mountain View	CA	53.95
+Napa	CA	57.275000000000006
+Nevada City	CA	55.36538461538461
+Newcastle	CA	34.519999999999996
+Newhall	CA	50.9
+Newman	CA	85.0
+Oakland	CA	51.1
+Oberlin	OH	54.749374999999965
+Occidental	CA	30.9
+Oregonia	OH	56.45
+Orinda	CA	21.0
+Oroville	CA	56.9
+Pacheco	CA	52.661538461538456
+Pacifica	CA	57.0
+Patterson	CA	54.0
+Petaluma	CA	48.9
+Pickerington	OH	53.37499999999999
+Pinole	CA	46.05
+Piqua	OH	53.94000000000001
+Pittsburg	CA	42.8
+Placerville	CA	57.45384615384615
+Pleasant Grove	CA	48.83529411764706
+Pleasant Hill	CA	51.8
+Pleasanton	CA	57.8875
+Plymouth	CA	55.441379310344836
+Pollock Pines	CA	44.6
+Pope Valley	CA	42.800000000000004
+Porter Ranch	CA	61.0
+Potter Valley	CA	79.83333333333333
+Rescue	CA	59.0
+Reynoldsburg	OH	55.4
+Richmond	CA	26.7
+Ripon	CA	55.14242424242423
+Rocklin	CA	57.220000000000006
+Rodeo	CA	50.36
+Rohnert Park	CA	57.892307692307696
+Royal Oaks	CA	44.6
+Sabina	OH	52.333333333333336
+Sacramento	CA	19.9
+Saint Helena	CA	54.0278625954199
+Salida	CA	55.779999999999994
+Salinas	CA	51.25
+San Andreas	CA	62.01111111111111
+San Bruno	CA	43.400000000000006
+San Carlos	CA	58.32666666666667
+San Francisco	CA	50.0
+San Jacinto	CA	54.9857142857143
+San Jose	CA	79.0
+San Leandro	CA	55.68203592814373
+San Lorenzo	CA	59.003703703703714
+San Mateo	CA	56.099999999999994
+San Pablo	CA	52.25
+San Ramon	CA	54.88571428571429
+Santa Clara	CA	59.87647058823529
+Santa Clarita	CA	54.01538461538462
+Santa Cruz	CA	74.5
+Santa Rosa	CA	54.39047619047619
+Sausalito	CA	53.960674157303394
+Scotts Valley	CA	55.785714285714285
+Seaside	CA	54.42857142857143
+Sebastopol	CA	55.05
+Shingle Springs	CA	55.666666666666664
+Sierra City	CA	46.91428571428572
+Simi Valley	CA	32.0
+Smartsville	CA	79.83333333333333
+Soda Springs	CA	93.0
+Sonoma	CA	28.96
+Soquel	CA	48.199999999999996
+South San Francisco	CA	54.58
+Springboro	OH	55.01666666666667
+Springfield	OH	21.0
+Stevenson Ranch	CA	55.9
+Stockton	CA	82.71428571428571
+Strongsville	OH	56.31052631578947
+Sunnyvale	CA	32.0
+Sunol	CA	54.525
+Sutter Creek	CA	58.61538461538461
+Tracy	CA	51.8
+Turlock	CA	55.41346153846154
+Ukiah	CA	55.0
+Union City	CA	51.58
+Vacaville	CA	54.50833333333333
+Valencia	CA	52.07272727272726
+Akron	OH	56.0
+Alamo	CA	26.225
+Alta	CA	57.95333333333333
+American Canyon	CA	29.05
+Angels Camp	CA	58.25555555555555
+Angwin	CA	44.6
+Antioch	CA	57.0
+Applegate	CA	56.011111111111106
+Aptos	CA	57.2
+Arbuckle	CA	51.93333333333334
+Aromas	CA	55.975
+Auburn	CA	52.0
+Banning	CA	52.1
+Barberton	OH	82.5
+Bay Point	CA	33.7
+Beaumont	CA	53.88333333333333
+Belmont	CA	83.75
+Benicia	CA	48.2
+Berkeley	CA	55.879999999999995
+Blanchester	OH	55.608695652173914
+Bloomingburg	OH	28.9
+Bodega Bay	CA	60.1
+Boulder Creek	CA	57.9
+Bowling Green	OH	53.36666666666667
+Brecksville	OH	34.1
+Brentwood	CA	25.0
+Brisbane	CA	53.36666666666667
+Burlingame	CA	57.9
+Byron	CA	53.79375
+Cabazon	CA	51.58
+Calimesa	CA	73.5
+Calistoga	CA	70.0
+Cambridge	OH	54.96666666666667
+Cameron Park	CA	46.0
+Campbell	CA	47.3
+Canyon Country	CA	57.45384615384615
+Capitola	CA	79.3125
+Carmel	CA	52.0
+Carmel Valley	CA	53.05
+Carroll	OH	55.0
+Castaic	CA	34.95
+Castro Valley	CA	72.84615384615384
+Castroville	CA	57.34411764705882
+Cazadero	CA	67.33333333333333
+Ceres	CA	60.1
+Clarksburg	CA	58.63333333333333
+Clayton	CA	48.0
+Clearlake Oaks	CA	51.1
+Cleveland	OH	57.9
+Cloverdale	CA	22.933333333333334
+Colfax	CA	56.725
+Columbus	OH	51.79999999999999
+Concord	CA	31.140000000000004
+Cool	CA	55.97333333333333
+Copperopolis	CA	50.9
+Crockett	CA	52.400000000000006
+Crows Landing	CA	54.699999999999996
+Cupertino	CA	59.0
+Daly City	CA	56.67272727272727
+Danville	CA	55.11333333333334
+Davis	CA	56.62380952380952
+Dayton	OH	52.7
+Denair	CA	38.63582089552239
+Discovery Bay	CA	46.05
+Dixon	CA	57.0
+Dos Palos	CA	47.942857142857136
+Downieville	CA	52.5
+Dublin	CA	26.1
+Dunnigan	CA	50.48888888888889
+El Cerrito	CA	56.666666666666664
+El Dorado	CA	46.0
+El Sobrante	CA	51.8
+Elk Grove	CA	55.02
+Emeryville	CA	53.96500000000002
+Emigrant Gap	CA	54.275
+Escalon	CA	29.933333333333334
+Fairborn	OH	56.7
+Fairfield	CA	31.866666666666664
+Findlay	OH	56.76976744186047
+Firebaugh	CA	27.0
+Forest Falls	CA	53.666666666666664
+Foresthill	CA	84.0
+Forestville	CA	48.56
+Fraziers Bottom	WV	58.975
+Freedom	CA	49.0
+Fremont	CA	50.0
+French Camp	CA	55.77692307692307
+Fulton	CA	54.166666666666664
+Gallipolis	OH	56.45
+Galt	CA	66.0
+Geyserville	CA	52.60909090909092
+Gonzales	CA	48.0
+Grass Valley	CA	66.9
+Greenwood	CA	41.6
+Gualala	CA	55.4
+Guerneville	CA	50.45
+Half Moon Bay	CA	48.333333333333336
+Hayward	CA	57.199999999999996
+Healdsburg	CA	56.62040816326531
+Hemet	CA	53.36
+Hercules	CA	85.66666666666667
+Hollister	CA	54.90833333333333
+Hopland	CA	62.6
+Hughson	CA	50.95
+Independence	OH	68.0
+Isleton	CA	36.03333333333333
+Jackson	CA	52.0
+Jamestown	CA	34.7
+Jenner	CA	46.4
+Johnstown	OH	53.63333333333333
+Kelseyville	CA	37.9
+Lafayette	CA	55.0
+Lakeport	CA	57.56153846153847
+Lathrop	CA	46.2
+Lebanon	OH	53.368750000000006
+Lincoln	CA	21.0
+Linden	CA	46.4
+Livermore	CA	60.29999999999999
+Lodi	CA	55.43111111111112
+Los Altos	CA	55.32916666666667
+Los Banos	CA	59.11
+Los Gatos	CA	51.96666666666667
+Lower Lake	CA	56.03456790123456
+Lucerne	CA	41.0
+Mansfield	OH	54.95
+Manteca	CA	23.0
+Marina	CA	57.74285714285714
+Martinez	CA	53.73333333333333
+Mendocino	CA	55.28709677419355
+Mendota	CA	55.9
+Merced	CA	55.0
+Miamisburg	OH	48.0
+Middletown	CA	42.044444444444444
+Millbrae	CA	52.333333333333336
+Milpitas	CA	52.45714285714286
+Modesto	CA	56.98181818181818
+Mokelumne Hill	CA	54.686666666666675
+Monterey	CA	57.2
+Moraine	OH	55.775
+Moss Beach	CA	43.06666666666666
+Moss Landing	CA	48.2
+Mountain View	CA	53.95
+Napa	CA	57.275000000000006
+Nevada City	CA	55.36538461538461
+Newcastle	CA	34.519999999999996
+Newhall	CA	50.9
+Newman	CA	85.0
+Oakland	CA	51.1
+Oberlin	OH	54.749374999999965
+Occidental	CA	30.9
+Oregonia	OH	56.45
+Orinda	CA	21.0
+Oroville	CA	56.9
+Pacheco	CA	52.661538461538456
+Pacifica	CA	57.0
+Patterson	CA	54.0
+Petaluma	CA	48.9
+Pickerington	OH	53.37499999999999
+Pinole	CA	46.05
+Piqua	OH	53.94000000000001
+Pittsburg	CA	42.8
+Placerville	CA	57.45384615384615
+Pleasant Grove	CA	48.83529411764706
+Pleasant Hill	CA	51.8
+Pleasanton	CA	57.8875
+Plymouth	CA	55.441379310344836
+Pollock Pines	CA	44.6
+Pope Valley	CA	42.800000000000004
+Porter Ranch	CA	61.0
+Potter Valley	CA	79.83333333333333
+Rescue	CA	59.0
+Reynoldsburg	OH	55.4
+Richmond	CA	26.7
+Ripon	CA	55.14242424242423
+Rocklin	CA	57.220000000000006
+Rodeo	CA	50.36
+Rohnert Park	CA	57.892307692307696
+Royal Oaks	CA	44.6
+Sabina	OH	52.333333333333336
+Sacramento	CA	19.9
+Saint Helena	CA	54.0278625954199
+Salida	CA	55.779999999999994
+Salinas	CA	51.25
+San Andreas	CA	62.01111111111111
+San Bruno	CA	43.400000000000006
+San Carlos	CA	58.32666666666667
+San Francisco	CA	50.0
+San Jacinto	CA	54.9857142857143
+San Jose	CA	79.0
+San Leandro	CA	55.68203592814373
+San Lorenzo	CA	59.003703703703714
+San Mateo	CA	56.099999999999994
+San Pablo	CA	52.25
+San Ramon	CA	54.88571428571429
+Santa Clara	CA	59.87647058823529
+Santa Clarita	CA	54.01538461538462
+Santa Cruz	CA	74.5
+Santa Rosa	CA	54.39047619047619
+Sausalito	CA	53.960674157303394
+Scotts Valley	CA	55.785714285714285
+Seaside	CA	54.42857142857143
+Sebastopol	CA	55.05
+Shingle Springs	CA	55.666666666666664
+Sierra City	CA	46.91428571428572
+Simi Valley	CA	32.0
+Smartsville	CA	79.83333333333333
+Soda Springs	CA	93.0
+Sonoma	CA	28.96
+Soquel	CA	48.199999999999996
+South San Francisco	CA	54.58
+Springboro	OH	55.01666666666667
+Springfield	OH	21.0
+Stevenson Ranch	CA	55.9
+Stockton	CA	82.71428571428571
+Strongsville	OH	56.31052631578947
+Sunnyvale	CA	32.0
+Sunol	CA	54.525
+Sutter Creek	CA	58.61538461538461
+Tracy	CA	51.8
+Turlock	CA	55.41346153846154
+Ukiah	CA	55.0
+Union City	CA	51.58
+Vacaville	CA	54.50833333333333
+Valencia	CA	52.07272727272726
+Vallejo	CA	75.47058823529412
+Valley Ford	CA	55.966666666666676
+Valley Springs	CA	48.0
+Vandalia	OH	43.7
+Vernalis	CA	57.9
+Walnut Creek	CA	51.1
+Walnut Grove	CA	56.22962962962962
+Watsonville	CA	57.9
+Waynesville	OH	55.14166666666667
+West Sacramento	CA	21.0
+Westerville	OH	55.59444444444445
+Wheatland	CA	36.85
+Willits	CA	59.0
+Windsor	CA	48.0
+Winters	CA	52.7
+Woodland	CA	48.0
+Yorkville	CA	50.81249999999999
+Yountville	CA	55.9
+Yountville	CA	57.9
