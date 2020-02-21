@@ -1,0 +1,1 @@
+Severity	City	State	Temperature(F)	Weather_Condition
