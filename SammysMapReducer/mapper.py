@@ -7,7 +7,7 @@ for line in input:
         severity, city, state, temperature, weather_condition = listOfData
         output.write(state + "\t" + severity + "\n")
     except:
-        print("skipped")
+        break
         
 input.close()
 output.close()
