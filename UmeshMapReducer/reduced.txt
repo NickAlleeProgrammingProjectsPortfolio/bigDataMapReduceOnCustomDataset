@@ -1,0 +1,2242 @@
+Clear	6786
+Cloudy	8682
+Cloudy / Windy	8700
+Drizzle	8714
+Drizzle and Fog	8715
+Fair	16389
+Fair / Windy	16397
+Fog	16589
+Haze	16685
+Heavy Drizzle	16687
+Heavy Rain	17092
+Heavy Rain / Windy	17093
+Heavy Snow	17096
+Heavy T-Storm	17154
+Heavy T-Storm / Windy	17156
+Heavy Thunderstorms and Rain	17215
+Light Drizzle	17397
+Light Freezing Drizzle	17398
+Light Freezing Fog	17426
+Light Rain	19725
+Light Rain / Windy	19731
+Light Rain Showers	19732
+Light Rain with Thunder	19784
+Light Snow	19818
+Light Thunderstorms and Rain	19925
+Mist	19972
+Mostly Cloudy	24863
+Mostly Cloudy / Windy	24874
+N/A Precipitation	24877
+Overcast	29712
+Partly Cloudy	33130
+Partly Cloudy / Windy	33133
+Patches of Fog	33137
+Rain	33755
+Rain / Windy	33758
+Scattered Clouds	35583
+Shallow Fog	35584
+Smoke	35587
+Snow	35593
+T-Storm	35684
+T-Storm / Windy	35686
+Thunder	35753
+Thunder / Windy	35756
+Thunder in the Vicinity	35873
+Thunderstorm	36005
+Thunderstorms and Rain	36041
+Wintry Mix	36042
+Clear	36353
+Cloudy	36469
+Fair	36798
+Fog	36821
+Haze	36827
+Heavy Rain	36845
+Heavy Rain / Windy	36846
+Heavy T-Storm	36849
+Heavy Thunderstorms and Rain	36852
+Light Drizzle	36864
+Light Freezing Rain	36865
+Light Rain	37020
+Light Rain / Windy	37021
+Light Rain with Thunder	37025
+Light Snow	37030
+Light Thunderstorms and Rain	37031
+Mist	37033
+Mostly Cloudy	37241
+Overcast	37457
+Partly Cloudy	37580
+Rain	37636
+Rain / Windy	37637
+Scattered Clouds	37694
+T-Storm	37700
+T-Storm / Windy	37701
+Thunder	37703
+Thunderstorm	37705
+Thunderstorms and Rain	37709
+Wintry Mix	37710
+Blowing Dust / Windy	37711
+Clear	59927
+Cloudy	60996
+Cloudy / Windy	61017
+Drizzle	61018
+Fair	71158
+Fair / Windy	71280
+Fog	71298
+Haze	71391
+Haze / Windy	71392
+Heavy Rain	71449
+Heavy Rain / Windy	71452
+Heavy Snow	71458
+Heavy T-Storm	71462
+Heavy Thunderstorms and Rain	71472
+Light Drizzle	71577
+Light Freezing Rain	71579
+Light Rain	72332
+Light Rain / Windy	72341
+Light Rain Shower	72343
+Light Rain with Thunder	72367
+Light Snow	72426
+Light Thunderstorms and Rain	72468
+Mist	72469
+Mostly Cloudy	81355
+Mostly Cloudy / Windy	81414
+Overcast	83193
+Partly Cloudy	93052
+Partly Cloudy / Windy	93086
+Patches of Fog	93087
+Rain	93248
+Sand / Dust Whirlwinds	93275
+Sand / Dust Whirlwinds / Windy	93277
+Scattered Clouds	97445
+Shallow Fog	97447
+Showers in the Vicinity	97451
+Smoke	97458
+Snow	97470
+T-Storm	97490
+T-Storm / Windy	97491
+Thunder	97510
+Thunder / Windy	97511
+Thunder in the Vicinity	97563
+Thunderstorm	97606
+Thunderstorms and Rain	97621
+Widespread Dust	97641
+Blowing Dust	97681
+Blowing Dust / Windy	97710
+Blowing Sand	97711
+Clear	350781
+Cloudy	375740
+Cloudy / Windy	375871
+Drizzle	376074
+Dust Whirls	376075
+Fair	479091
+Fair / Windy	480335
+Fog	484473
+Fog / Windy	484481
+Hail	484483
+Haze	506313
+Haze / Windy	506338
+Heavy Drizzle	506370
+Heavy Rain	508616
+Heavy Rain / Windy	508654
+Heavy Smoke	508655
+Heavy Snow	508688
+Heavy T-Storm	508711
+Heavy Thunderstorms and Rain	508732
+Light Drizzle	509062
+Light Drizzle / Windy	509063
+Light Freezing Fog	509085
+Light Freezing Rain	509087
+Light Hail	509089
+Light Haze	509095
+Light Rain	529532
+Light Rain / Windy	529657
+Light Rain Shower	529668
+Light Rain Showers	529697
+Light Rain with Thunder	529721
+Light Snow	529988
+Light Snow / Windy	529994
+Light Snow Showers	529995
+Light Thunderstorm	529996
+Light Thunderstorms and Rain	530055
+Mist	530406
+Mostly Cloudy	590846
+Mostly Cloudy / Windy	591049
+N/A Precipitation	591056
+Overcast	649528
+Partial Fog	649530
+Partly Cloudy	709085
+Partly Cloudy / Windy	709355
+Patches of Fog	709534
+Rain	715972
+Rain / Windy	716025
+Rain Shower	716026
+Rain Showers	716113
+Scattered Clouds	745469
+Shallow Fog	745566
+Showers in the Vicinity	745634
+Smoke	747557
+Smoke / Windy	747564
+Snow	747714
+Snow / Windy	747718
+Squalls	747722
+Squalls / Windy	747723
+T-Storm	747783
+Thunder	747798
+Thunder in the Vicinity	747826
+Thunderstorm	747847
+Thunderstorms and Rain	747905
+Volcanic Ash	747917
+Widespread Dust	747956
+Widespread Dust / Windy	747957
+Wintry Mix	747964
+Blowing Dust / Windy	747966
+Blowing Snow	747987
+Blowing Snow / Windy	747988
+Clear	754663
+Cloudy	756205
+Cloudy / Windy	756257
+Drizzle	756288
+Drizzle and Fog	756291
+Fair	760346
+Fair / Windy	760441
+Fog	760673
+Fog / Windy	760679
+Funnel Cloud	760681
+Haze	760849
+Haze / Windy	760850
+Heavy Blowing Snow	760852
+Heavy Drizzle	760862
+Heavy Rain	760865
+Heavy Snow	760952
+Heavy Snow / Windy	760958
+Heavy T-Storm	760964
+Heavy T-Storm / Windy	760968
+Heavy Thunderstorms and Rain	760975
+Light Drizzle	761160
+Light Drizzle / Windy	761161
+Light Freezing Drizzle	761252
+Light Freezing Fog	761384
+Light Freezing Rain	761391
+Light Rain	761889
+Light Rain / Windy	761898
+Light Rain Shower	761902
+Light Rain with Thunder	761964
+Light Snow	763821
+Light Snow / Windy	763861
+Light Snow Showers	763863
+Light Snow with Thunder	763866
+Light Thunderstorm	763867
+Light Thunderstorms and Rain	763906
+Light Thunderstorms and Snow	763910
+Mist	763941
+Mostly Cloudy	772852
+Mostly Cloudy / Windy	772958
+Overcast	775338
+Partial Fog	775346
+Partly Cloudy	782786
+Partly Cloudy / Windy	782860
+Patches of Fog	782861
+Rain	782956
+Scattered Clouds	787017
+Showers in the Vicinity	787092
+Smoke	787112
+Snow	787419
+Snow / Windy	787427
+Squalls	787432
+Squalls / Windy	787433
+T-Storm	787465
+T-Storm / Windy	787474
+Thunder	787517
+Thunder / Windy	787522
+Thunder in the Vicinity	787585
+Thunderstorm	787624
+Thunderstorms and Rain	787632
+Wintry Mix	787680
+Clear	795078
+Cloudy	795785
+Cloudy / Windy	795807
+Drizzle	795808
+Fair	797785
+Fair / Windy	797797
+Fog	797991
+Haze	798042
+Heavy Drizzle	798046
+Heavy Rain	798151
+Heavy Rain / Windy	798153
+Heavy Snow	798180
+Heavy T-Storm	798192
+Heavy Thunderstorms and Rain	798202
+Heavy Thunderstorms and Snow	798204
+Ice Pellets	798205
+Light Drizzle	798284
+Light Freezing Drizzle	798289
+Light Freezing Fog	798303
+Light Freezing Rain	798366
+Light Ice Pellets	798370
+Light Rain	799821
+Light Rain / Windy	799831
+Light Rain with Thunder	799834
+Light Sleet	799835
+Light Snow	800247
+Light Thunderstorms and Rain	800264
+Mist	800304
+Mostly Cloudy	803004
+Mostly Cloudy / Windy	803014
+Overcast	806668
+Partly Cloudy	808456
+Partly Cloudy / Windy	808459
+Patches of Fog	808472
+Rain	808840
+Rain / Windy	808842
+Scattered Clouds	810220
+Snow	810296
+T-Storm	810304
+Thunder	810313
+Thunder in the Vicinity	810316
+Thunderstorm	810328
+Thunderstorms and Rain	810343
+Wintry Mix	810366
+Clear	810569
+Cloudy	810791
+Fair	811172
+Fair / Windy	811174
+Fog	811181
+Haze	811187
+Heavy Rain	811192
+Heavy T-Storm	811193
+Heavy T-Storm / Windy	811194
+Light Drizzle	811220
+Light Freezing Fog	811223
+Light Rain	811406
+Light Rain / Windy	811407
+Light Rain with Thunder	811409
+Light Snow	811420
+Mostly Cloudy	812089
+Mostly Cloudy / Windy	812092
+Overcast	812559
+Partly Cloudy	812963
+Partly Cloudy / Windy	812964
+Rain	812980
+Sand	812982
+Scattered Clouds	813210
+Snow	813212
+T-Storm	813216
+Thunder	813221
+Thunder in the Vicinity	813225
+Thunderstorm	813232
+Wintry Mix	813234
+Clear	814773
+Cloudy	814999
+Cloudy / Windy	815005
+Fair	815729
+Fair / Windy	815753
+Fog	815810
+Haze	815817
+Heavy Rain	815836
+Heavy Rain / Windy	815838
+Heavy Snow	815843
+Heavy T-Storm	815846
+Heavy T-Storm / Windy	815847
+Heavy Thunderstorms and Rain	815848
+Ice Pellets	815850
+Light Drizzle	815853
+Light Freezing Rain	815857
+Light Rain	816106
+Light Rain / Windy	816107
+Light Snow	816134
+Light Thunderstorms and Rain	816137
+Mist	816144
+Mostly Cloudy	816500
+Mostly Cloudy / Windy	816503
+Overcast	817154
+Partly Cloudy	817426
+Partly Cloudy / Windy	817427
+Rain	817479
+Scattered Clouds	817632
+Smoke	817633
+Snow	817641
+Thunder	817643
+Thunder in the Vicinity	817645
+Thunderstorm	817648
+Thunderstorms and Rain	817649
+Wintry Mix	817652
+Clear	876808
+Cloudy	880658
+Cloudy / Windy	880712
+Drizzle	880747
+Fair	902561
+Fair / Windy	902635
+Fog	904129
+Fog / Windy	904142
+Funnel Cloud	904151
+Haze	904621
+Haze / Windy	904624
+Heavy Drizzle	904626
+Heavy Rain	905938
+Heavy Rain / Windy	905946
+Heavy T-Storm	906159
+Heavy T-Storm / Windy	906184
+Heavy Thunderstorms and Rain	906823
+Light Drizzle	907100
+Light Freezing Fog	907101
+Light Freezing Rain / Windy	907103
+Light Rain	916541
+Light Rain / Windy	916581
+Light Rain Shower	916583
+Light Rain Showers	916588
+Light Rain with Thunder	916876
+Light Snow	916879
+Light Snow and Sleet	916880
+Light Thunderstorms and Rain	918008
+Mist	918188
+Mostly Cloudy	959429
+Mostly Cloudy / Windy	959551
+Overcast	975439
+Partly Cloudy	1004055
+Partly Cloudy / Windy	1004128
+Patches of Fog	1004366
+Rain	1006415
+Rain / Windy	1006430
+Rain Shower	1006431
+Rain Showers	1006438
+Scattered Clouds	1035127
+Shallow Fog	1035258
+Showers in the Vicinity	1035318
+Smoke	1035466
+Squalls / Windy	1035467
+T-Storm	1035791
+T-Storm / Windy	1035810
+Thunder	1036239
+Thunder / Windy	1036256
+Thunder in the Vicinity	1036799
+Thunderstorm	1038330
+Thunderstorms and Rain	1038828
+Volcanic Ash	1038829
+Widespread Dust	1038832
+Clear	1062455
+Cloudy	1064918
+Cloudy / Windy	1064929
+Drizzle	1065000
+Drizzle and Fog	1065010
+Fair	1073674
+Fair / Windy	1073687
+Fog	1074309
+Haze	1074666
+Heavy Drizzle	1074677
+Heavy Rain	1075184
+Heavy Rain / Windy	1075188
+Heavy T-Storm	1075242
+Heavy T-Storm / Windy	1075247
+Heavy Thunderstorms and Rain	1075359
+Light Drizzle	1075948
+Light Drizzle / Windy	1075949
+Light Freezing Rain	1075960
+Light Ice Pellets	1075966
+Light Rain	1081017
+Light Rain / Windy	1081029
+Light Rain Shower	1081033
+Light Rain Showers	1081045
+Light Rain with Thunder	1081085
+Light Snow	1081168
+Light Thunderstorms and Rain	1081366
+Mist	1081440
+Mostly Cloudy	1094207
+Mostly Cloudy / Windy	1094224
+Overcast	1105646
+Partly Cloudy	1113371
+Partly Cloudy / Windy	1113376
+Patches of Fog	1113396
+Rain	1114506
+Rain / Windy	1114518
+Rain Showers	1114520
+Scattered Clouds	1120680
+Shallow Fog	1120728
+Smoke	1120915
+Snow	1120924
+Squalls	1120925
+T-Storm	1120996
+T-Storm / Windy	1120999
+Thunder	1121031
+Thunder / Windy	1121032
+Thunder in the Vicinity	1121107
+Thunderstorm	1121294
+Thunderstorms and Rain	1121375
+Wintry Mix	1121379
+Blowing Snow	1121387
+Clear	1124048
+Cloudy	1124441
+Cloudy / Windy	1124483
+Drizzle	1124485
+Fair	1125353
+Fair / Windy	1125367
+Fog	1125449
+Fog / Windy	1125450
+Haze	1125524
+Heavy Rain	1125545
+Heavy Snow	1125554
+Heavy Snow / Windy	1125557
+Heavy T-Storm	1125560
+Heavy T-Storm / Windy	1125563
+Heavy Thunderstorms and Rain	1125570
+Light Drizzle	1125623
+Light Freezing Drizzle	1125658
+Light Freezing Fog	1125676
+Light Freezing Rain	1125701
+Light Ice Pellets	1125702
+Light Rain	1126080
+Light Rain / Windy	1126082
+Light Rain with Thunder	1126091
+Light Snow	1126638
+Light Snow / Windy	1126648
+Light Thunderstorms and Rain	1126667
+Mist	1126671
+Mostly Cloudy	1127696
+Mostly Cloudy / Windy	1127716
+N/A Precipitation	1127718
+Overcast	1129663
+Partly Cloudy	1130672
+Partly Cloudy / Windy	1130675
+Patches of Fog	1130681
+Rain	1130749
+Scattered Clouds	1131255
+Snow	1131304
+T-Storm	1131313
+Thunder	1131319
+Thunder in the Vicinity	1131326
+Thunderstorm	1131344
+Thunderstorms and Rain	1131354
+Wintry Mix	1131360
+Blowing Snow	1131362
+Blowing Snow / Windy	1131365
+Clear	1132004
+Cloudy	1132078
+Cloudy / Windy	1132081
+Fair	1132285
+Fair / Windy	1132290
+Fog	1132294
+Haze	1132319
+Heavy Snow	1132322
+Heavy Snow / Windy	1132323
+Light Drizzle	1132325
+Light Freezing Fog	1132335
+Light Freezing Rain	1132337
+Light Rain	1132403
+Light Rain / Windy	1132404
+Light Rain with Thunder	1132405
+Light Snow	1132508
+Light Snow / Windy	1132510
+Mist	1132513
+Mostly Cloudy	1132652
+Mostly Cloudy / Windy	1132654
+Overcast	1132829
+Partly Cloudy	1132945
+Rain	1132948
+Scattered Clouds	1133012
+Smoke	1133015
+Snow	1133038
+T-Storm	1133039
+T-Storm / Windy	1133040
+Thunder in the Vicinity	1133041
+Wintry Mix	1133042
+Blowing Snow	1133051
+Clear	1153547
+Cloudy	1157053
+Cloudy / Windy	1157182
+Drizzle	1157237
+Fair	1162643
+Fair / Windy	1162776
+Fog	1163319
+Fog / Windy	1163320
+Haze	1164523
+Haze / Windy	1164524
+Heavy Drizzle	1164528
+Heavy Rain	1164749
+Heavy Rain / Windy	1164753
+Heavy Snow	1164777
+Heavy T-Storm	1164796
+Heavy T-Storm / Windy	1164798
+Heavy Thunderstorms and Rain	1164895
+Light Drizzle	1165381
+Light Drizzle / Windy	1165383
+Light Freezing Drizzle	1165441
+Light Freezing Fog	1165468
+Light Freezing Rain	1165599
+Light Ice Pellets	1165614
+Light Rain	1169684
+Light Rain / Windy	1169712
+Light Rain Showers	1169713
+Light Rain with Thunder	1169789
+Light Snow	1173094
+Light Snow / Windy	1173137
+Light Thunderstorms and Rain	1173384
+Light Thunderstorms and Snow	1173387
+Mist	1173459
+Mostly Cloudy	1186302
+Mostly Cloudy / Windy	1186363
+N/A Precipitation	1186365
+Overcast	1203399
+Partly Cloudy	1211982
+Partly Cloudy / Windy	1212014
+Patches of Fog	1212015
+Rain	1212719
+Rain / Windy	1212729
+Scattered Clouds	1218535
+Shallow Fog	1218541
+Small Hail	1218543
+Smoke	1218553
+Snow	1218770
+Snow / Windy	1218777
+Snow and Sleet	1218780
+Squalls	1218782
+Squalls / Windy	1218783
+T-Storm	1218846
+T-Storm / Windy	1218851
+Thunder	1218869
+Thunder / Windy	1218872
+Thunder in the Vicinity	1218902
+Thunderstorm	1219026
+Thunderstorms and Rain	1219132
+Wintry Mix	1219151
+Wintry Mix / Windy	1219152
+Blowing Snow	1219157
+Clear	1227175
+Cloudy	1228270
+Cloudy / Windy	1228298
+Drizzle	1228316
+Drizzle and Fog	1228317
+Fair	1230987
+Fair / Windy	1231001
+Fog	1231187
+Haze	1231286
+Heavy Drizzle	1231288
+Heavy Rain	1231391
+Heavy Snow	1231398
+Heavy T-Storm	1231407
+Heavy Thunderstorms and Rain	1231431
+Ice Pellets	1231433
+Light Drizzle	1231636
+Light Drizzle / Windy	1231637
+Light Freezing Drizzle	1231652
+Light Freezing Fog	1231663
+Light Freezing Rain	1231695
+Light Ice Pellets	1231702
+Light Rain	1233238
+Light Rain / Windy	1233248
+Light Rain with Thunder	1233256
+Light Snow	1234179
+Light Snow / Windy	1234190
+Light Thunderstorms and Rain	1234244
+Light Thunderstorms and Snow	1234245
+Mist	1234289
+Mostly Cloudy	1238045
+Mostly Cloudy / Windy	1238078
+Overcast	1243780
+Partly Cloudy	1246215
+Partly Cloudy / Windy	1246226
+Patches of Fog	1246257
+Rain	1246556
+Scattered Clouds	1248588
+Shallow Fog	1248596
+Smoke	1248597
+Snow	1248660
+Snow / Windy	1248661
+T-Storm	1248693
+T-Storm / Windy	1248694
+Thunder	1248696
+Thunder in the Vicinity	1248708
+Thunderstorm	1248738
+Thunderstorms and Rain	1248767
+Wintry Mix	1248774
+Wintry Mix / Windy	1248775
+Clear	1250164
+Cloudy	1250380
+Cloudy / Windy	1250396
+Fair	1251176
+Fair / Windy	1251188
+Fog	1251237
+Haze	1251248
+Heavy Rain	1251269
+Heavy Rain / Windy	1251270
+Heavy Snow	1251275
+Heavy T-Storm	1251289
+Heavy T-Storm / Windy	1251293
+Heavy Thunderstorms and Rain	1251301
+Light Drizzle	1251305
+Light Freezing Drizzle	1251306
+Light Freezing Fog	1251311
+Light Freezing Rain	1251328
+Light Rain	1251503
+Light Rain / Windy	1251504
+Light Rain with Thunder	1251518
+Light Snow	1251659
+Light Snow / Windy	1251664
+Light Thunderstorms and Rain	1251675
+Mist	1251680
+Mostly Cloudy	1251922
+Mostly Cloudy / Windy	1251923
+Overcast	1252552
+Partly Cloudy	1252803
+Partly Cloudy / Windy	1252806
+Rain	1252855
+Scattered Clouds	1253007
+Snow	1253022
+T-Storm	1253041
+T-Storm / Windy	1253043
+Thunder	1253046
+Thunder in the Vicinity	1253048
+Thunderstorm	1253055
+Thunderstorms and Rain	1253058
+Blowing Snow	1253059
+Clear	1256858
+Cloudy	1257856
+Cloudy / Windy	1257874
+Drizzle	1257880
+Drizzle and Fog	1257882
+Fair	1260142
+Fair / Windy	1260154
+Fog	1260300
+Haze	1260457
+Heavy Rain	1260666
+Heavy Rain / Windy	1260670
+Heavy Snow	1260671
+Heavy T-Storm	1260685
+Heavy Thunderstorms and Rain	1260709
+Light Drizzle	1260783
+Light Freezing Drizzle	1260792
+Light Freezing Fog	1260796
+Light Freezing Rain	1260824
+Light Rain	1262598
+Light Rain / Windy	1262608
+Light Rain with Thunder	1262626
+Light Snow	1262968
+Light Snow / Windy	1262971
+Light Thunderstorms and Rain	1263029
+Mist	1263048
+Mostly Cloudy	1265530
+Mostly Cloudy / Windy	1265535
+Overcast	1268558
+Partly Cloudy	1270514
+Partly Cloudy / Windy	1270515
+Patches of Fog	1270557
+Rain	1270944
+Scattered Clouds	1271927
+Shallow Fog	1271932
+Smoke	1271933
+Snow	1271940
+T-Storm	1271977
+T-Storm / Windy	1271979
+Thunder	1271991
+Thunder / Windy	1271992
+Thunder in the Vicinity	1272000
+Thunderstorm	1272031
+Thunderstorms and Rain	1272056
+Wintry Mix	1272062
+Wintry Mix / Windy	1272063
+Clear	1287492
+Cloudy	1289146
+Cloudy / Windy	1289181
+Drizzle	1289185
+Fair	1297098
+Fair / Windy	1297117
+Fog	1297740
+Haze	1298407
+Heavy Drizzle	1298409
+Heavy Rain	1298793
+Heavy Rain / Windy	1298796
+Heavy T-Storm	1298949
+Heavy T-Storm / Windy	1298955
+Heavy Thunderstorms and Rain	1299095
+Light Drizzle	1299114
+Light Freezing Rain	1299133
+Light Ice Pellets	1299138
+Light Rain	1301386
+Light Rain / Windy	1301407
+Light Rain with Thunder	1301523
+Light Snow	1301569
+Light Thunderstorms and Rain	1301739
+Mist	1301765
+Mostly Cloudy	1309684
+Mostly Cloudy / Windy	1309706
+Overcast	1315396
+Partly Cloudy	1319524
+Partly Cloudy / Windy	1319542
+Patches of Fog	1319556
+Rain	1320133
+Rain / Windy	1320138
+Rain Showers	1320140
+Scattered Clouds	1323589
+Shallow Fog	1323612
+Smoke	1323624
+Snow	1323626
+Squalls / Windy	1323627
+T-Storm	1323790
+T-Storm / Windy	1323792
+Thunder	1323905
+Thunder / Windy	1323906
+Thunder in the Vicinity	1324063
+Thunderstorm	1324278
+Thunderstorms and Rain	1324376
+Tornado	1324378
+Blowing Snow	1324412
+Clear	1331714
+Cloudy	1333078
+Cloudy / Windy	1333112
+Fair	1335809
+Fair / Windy	1335850
+Fog	1336204
+Haze	1336302
+Heavy Rain	1336421
+Heavy Rain / Windy	1336422
+Heavy Snow	1336476
+Heavy T-Storm	1336479
+Heavy T-Storm / Windy	1336481
+Heavy Thunderstorms and Rain	1336487
+Ice Pellets	1336488
+Light Drizzle	1336579
+Light Freezing Drizzle	1336585
+Light Freezing Fog	1336619
+Light Freezing Rain	1336712
+Light Rain	1339003
+Light Rain / Windy	1339035
+Light Snow	1339839
+Light Snow / Windy	1339842
+Light Thunderstorms and Rain	1339854
+Mist	1339913
+Mostly Cloudy	1343800
+Mostly Cloudy / Windy	1343833
+N/A Precipitation	1343837
+Overcast	1348828
+Partly Cloudy	1351917
+Partly Cloudy / Windy	1351930
+Patches of Fog	1351960
+Rain	1352339
+Rain / Windy	1352342
+Scattered Clouds	1354477
+Shallow Fog	1354506
+Small Hail	1354508
+Smoke	1354509
+Snow	1354687
+Squalls	1354688
+T-Storm	1354695
+Thunder	1354698
+Thunder in the Vicinity	1354704
+Thunderstorm	1354717
+Thunderstorms and Rain	1354730
+Wintry Mix	1354764
+Clear	1364134
+Cloudy	1365525
+Cloudy / Windy	1365537
+Drizzle	1365566
+Drizzle and Fog	1365567
+Fair	1368674
+Fair / Windy	1368689
+Fog	1368970
+Haze	1369112
+Heavy Drizzle	1369114
+Heavy Ice Pellets	1369115
+Heavy Rain	1369213
+Heavy Snow	1369228
+Heavy T-Storm	1369233
+Heavy T-Storm / Windy	1369234
+Heavy Thunderstorms and Rain	1369253
+Ice Pellets	1369257
+Light Drizzle	1369439
+Light Freezing Drizzle	1369442
+Light Freezing Fog	1369452
+Light Freezing Rain	1369514
+Light Ice Pellets	1369538
+Light Rain	1370805
+Light Rain / Windy	1370810
+Light Rain Shower	1370815
+Light Rain Showers	1370837
+Light Rain with Thunder	1370843
+Light Snow	1371229
+Light Thunderstorms and Rain	1371253
+Mist	1371264
+Mostly Cloudy	1376407
+Mostly Cloudy / Windy	1376422
+N/A Precipitation	1376423
+Overcast	1382351
+Partly Cloudy	1384796
+Partly Cloudy / Windy	1384809
+Patches of Fog	1384814
+Rain	1385168
+Rain / Windy	1385170
+Sand	1385173
+Scattered Clouds	1388316
+Shallow Fog	1388348
+Snow	1388441
+T-Storm	1388461
+T-Storm / Windy	1388462
+Thunder	1388470
+Thunder in the Vicinity	1388482
+Thunderstorm	1388513
+Thunderstorms and Rain	1388529
+Wintry Mix	1388535
+Clear	1388923
+Cloudy	1389030
+Cloudy / Windy	1389031
+Fair	1389272
+Fair / Windy	1389278
+Fog	1389296
+Haze	1389300
+Heavy Rain	1389305
+Heavy Snow	1389314
+Light Drizzle	1389318
+Light Freezing Drizzle	1389321
+Light Freezing Fog	1389324
+Light Freezing Rain	1389330
+Light Ice Pellets	1389333
+Light Rain	1389491
+Light Rain with Thunder	1389492
+Light Snow	1389625
+Light Snow / Windy	1389626
+Light Thunderstorms and Rain	1389628
+Mist	1389629
+Mostly Cloudy	1389878
+N/A Precipitation	1389879
+Overcast	1390140
+Partly Cloudy	1390355
+Patches of Fog	1390356
+Rain	1390388
+Scattered Clouds	1390528
+Snow	1390544
+Snow and Sleet	1390547
+T-Storm	1390548
+Thunder in the Vicinity	1390549
+Wintry Mix	1390553
+Blowing Snow	1390573
+Clear	1411918
+Cloudy	1415717
+Cloudy / Windy	1415824
+Drizzle	1415886
+Fair	1421091
+Fair / Windy	1421165
+Fog	1421709
+Haze	1422343
+Heavy Drizzle	1422346
+Heavy Rain	1422622
+Heavy Rain / Windy	1422623
+Heavy Snow	1422723
+Heavy T-Storm	1422732
+Heavy T-Storm / Windy	1422733
+Heavy Thunderstorms and Rain	1422803
+Ice Pellets	1422804
+Light Drizzle	1423043
+Light Drizzle / Windy	1423044
+Light Freezing Drizzle	1423130
+Light Freezing Fog	1423156
+Light Freezing Rain	1423350
+Light Ice Pellets	1423354
+Light Rain	1429212
+Light Rain / Windy	1429246
+Light Rain Showers	1429257
+Light Rain with Thunder	1429292
+Light Snow	1435697
+Light Snow / Windy	1435712
+Light Thunderstorms and Rain	1435849
+Low Drifting Snow	1435852
+Mist	1435895
+Mostly Cloudy	1446620
+Mostly Cloudy / Windy	1446653
+N/A Precipitation	1446669
+Overcast	1465854
+Partly Cloudy	1471774
+Partly Cloudy / Windy	1471804
+Patches of Fog	1471835
+Rain	1472908
+Rain / Windy	1472915
+Scattered Clouds	1478224
+Shallow Fog	1478355
+Showers in the Vicinity	1478357
+Small Hail	1478362
+Snow	1478769
+Snow / Windy	1478770
+T-Storm	1478816
+T-Storm / Windy	1478820
+Thunder	1478838
+Thunder / Windy	1478839
+Thunder in the Vicinity	1478868
+Thunderstorm	1478953
+Thunderstorms and Rain	1479035
+Wintry Mix	1479044
+Blowing Snow	1479072
+Blowing Snow / Windy	1479078
+Clear	1491925
+Cloudy	1497449
+Cloudy / Windy	1497579
+Drizzle	1497650
+Drizzle / Windy	1497651
+Drizzle and Fog	1497654
+Fair	1505835
+Fair / Windy	1505931
+Fog	1506227
+Fog / Windy	1506244
+Freezing Rain	1506258
+Haze	1506851
+Haze / Windy	1506856
+Heavy Drizzle	1506858
+Heavy Rain	1506977
+Heavy Rain / Windy	1506978
+Heavy Snow	1507084
+Heavy Snow / Windy	1507091
+Heavy T-Storm	1507111
+Heavy T-Storm / Windy	1507113
+Heavy Thunderstorms and Rain	1507158
+Light Drizzle	1507415
+Light Drizzle / Windy	1507421
+Light Freezing Drizzle	1507517
+Light Freezing Fog	1507554
+Light Freezing Rain	1507725
+Light Ice Pellets	1507729
+Light Rain	1509884
+Light Rain / Windy	1509953
+Light Rain Shower	1509959
+Light Rain Showers	1509961
+Light Rain with Thunder	1509987
+Light Snow	1515318
+Light Snow / Windy	1515518
+Light Snow Showers	1515520
+Light Snow and Sleet	1515521
+Light Snow and Sleet / Windy	1515525
+Light Snow with Thunder	1515530
+Light Thunderstorms and Rain	1515590
+Light Thunderstorms and Snow	1515596
+Mist	1515655
+Mostly Cloudy	1522077
+Mostly Cloudy / Windy	1522122
+N/A Precipitation	1522200
+Overcast	1532149
+Partly Cloudy	1536138
+Partly Cloudy / Windy	1536171
+Patches of Fog	1536200
+Rain	1536702
+Rain / Windy	1536720
+Scattered Clouds	1539784
+Shallow Fog	1539786
+Showers in the Vicinity	1539812
+Sleet	1539814
+Small Hail	1539816
+Smoke	1539817
+Snow	1540385
+Snow / Windy	1540408
+Snow and Sleet / Windy	1540417
+Snow and Thunder	1540418
+T-Storm	1540493
+T-Storm / Windy	1540501
+Thunder	1540513
+Thunder / Wintry Mix / Windy	1540514
+Thunder in the Vicinity	1540564
+Thunderstorm	1540592
+Thunderstorms and Rain	1540632
+Wintry Mix	1540858
+Wintry Mix / Windy	1540868
+Blowing Snow	1540869
+Clear	1548315
+Cloudy	1549521
+Cloudy / Windy	1549561
+Drizzle	1549565
+Fair	1552452
+Fair / Windy	1552485
+Fog	1552660
+Funnel Cloud	1552661
+Haze	1552818
+Heavy Freezing Drizzle	1552819
+Heavy Rain	1552966
+Heavy Rain / Windy	1552968
+Heavy Snow	1552980
+Heavy T-Storm	1553008
+Heavy T-Storm / Windy	1553012
+Heavy Thunderstorms and Rain	1553054
+Ice Pellets	1553055
+Light Drizzle	1553147
+Light Freezing Drizzle	1553194
+Light Freezing Fog	1553200
+Light Freezing Rain	1553268
+Light Ice Pellets	1553272
+Light Rain	1555082
+Light Rain / Windy	1555085
+Light Rain Showers	1555088
+Light Rain with Thunder	1555166
+Light Snow	1555806
+Light Snow / Windy	1555814
+Light Snow and Sleet	1555819
+Light Thunderstorms and Rain	1555977
+Light Thunderstorms and Snow	1555980
+Mist	1555998
+Mostly Cloudy	1559735
+Mostly Cloudy / Windy	1559748
+N/A Precipitation	1559751
+Overcast	1564598
+Partly Cloudy	1567016
+Partly Cloudy / Windy	1567035
+Patches of Fog	1567041
+Rain	1567370
+Rain / Windy	1567373
+Scattered Clouds	1568841
+Shallow Fog	1568848
+Smoke	1568851
+Snow	1568912
+T-Storm	1568970
+T-Storm / Windy	1568971
+Thunder	1568990
+Thunder / Windy	1568992
+Thunder in the Vicinity	1569013
+Thunderstorm	1569053
+Thunderstorms and Rain	1569116
+Wintry Mix	1569131
+Wintry Mix / Windy	1569132
+Clear	1570834
+Cloudy	1571036
+Cloudy / Windy	1571038
+Fair	1571798
+Fog	1571852
+Haze	1571871
+Heavy Rain	1571956
+Heavy Snow	1571957
+Heavy T-Storm	1571969
+Heavy Thunderstorms and Rain	1571985
+Ice Pellets	1571988
+Light Drizzle	1572005
+Light Freezing Fog	1572006
+Light Freezing Rain	1572011
+Light Rain	1572462
+Light Rain / Windy	1572463
+Light Rain with Thunder	1572466
+Light Snow	1572489
+Light Thunderstorms and Rain	1572507
+Mist	1572517
+Mostly Cloudy	1573146
+Overcast	1573967
+Partly Cloudy	1574436
+Rain	1574549
+Scattered Clouds	1574901
+T-Storm	1574916
+Thunder	1574922
+Thunder in the Vicinity	1574940
+Thunderstorm	1574961
+Thunderstorms and Rain	1574969
+Clear	1575064
+Cloudy	1575093
+Fair	1575141
+Fair / Windy	1575142
+Fog	1575143
+Haze	1575156
+Heavy Rain	1575158
+Heavy Snow	1575165
+Heavy Snow / Windy	1575166
+Light Freezing Fog	1575171
+Light Rain	1575185
+Light Snow	1575277
+Mostly Cloudy	1575326
+Mostly Cloudy / Windy	1575328
+N/A Precipitation	1575329
+Overcast	1575406
+Partly Cloudy	1575439
+Scattered Clouds	1575453
+Smoke	1575455
+Snow	1575467
+Snow / Windy	1575468
+Wintry Mix	1575471
+Blowing Snow	1575472
+Clear	1598434
+Cloudy	1603201
+Cloudy / Windy	1603229
+Drizzle	1603477
+Fair	1616233
+Fair / Windy	1616245
+Fog	1617245
+Haze	1617566
+Heavy Drizzle	1617581
+Heavy Freezing Rain	1617582
+Heavy Rain	1618305
+Heavy Rain / Windy	1618315
+Heavy Snow	1618340
+Heavy T-Storm	1618419
+Heavy T-Storm / Windy	1618424
+Heavy Thunderstorms and Rain	1618561
+Ice Pellets	1618571
+Light Drizzle	1619587
+Light Freezing Drizzle	1619588
+Light Freezing Fog	1619594
+Light Freezing Rain	1619630
+Light Freezing Rain / Windy	1619631
+Light Ice Pellets	1619677
+Light Rain	1628044
+Light Rain / Windy	1628068
+Light Rain Showers	1628073
+Light Rain with Thunder	1628200
+Light Snow	1628576
+Light Thunderstorms and Rain	1628841
+Mist	1628933
+Mostly Cloudy	1660622
+Mostly Cloudy / Windy	1660665
+N/A Precipitation	1660666
+Overcast	1678272
+Partly Cloudy	1699773
+Partly Cloudy / Windy	1699784
+Patches of Fog	1700114
+Rain	1702210
+Rain / Windy	1702223
+Scattered Clouds	1715959
+Shallow Fog	1715966
+Smoke	1716030
+Snow	1716149
+T-Storm	1716208
+T-Storm / Windy	1716214
+Thunder	1716341
+Thunder / Windy	1716345
+Thunder in the Vicinity	1716405
+Thunderstorm	1716746
+Thunderstorms and Rain	1716862
+Wintry Mix	1716873
+Blowing Snow	1716874
+Clear	1716888
+Fair	1716892
+Heavy Snow	1716893
+Light Rain	1716894
+Light Snow	1716898
+Mostly Cloudy	1716899
+Overcast	1716908
+Partly Cloudy	1716910
+Scattered Clouds	1716912
+Snow	1716913
+Thunder in the Vicinity	1716914
+Blowing Snow	1716922
+Clear	1724924
+Cloudy	1725549
+Cloudy / Windy	1725574
+Drizzle	1725659
+Fair	1726943
+Fair / Windy	1726965
+Fog	1727019
+Haze	1727077
+Heavy Drizzle	1727086
+Heavy Freezing Drizzle	1727087
+Heavy Rain	1727148
+Heavy Snow	1727157
+Heavy T-Storm	1727165
+Heavy T-Storm / Windy	1727166
+Heavy Thunderstorms and Rain	1727200
+Light Drizzle	1727365
+Light Freezing Drizzle	1727389
+Light Freezing Fog	1727396
+Light Freezing Rain	1727410
+Light Ice Pellets	1727411
+Light Rain	1728128
+Light Rain / Windy	1728138
+Light Rain Shower	1728149
+Light Rain Shower / Windy	1728150
+Light Rain with Thunder	1728170
+Light Sleet	1728171
+Light Snow	1728883
+Light Snow / Windy	1728898
+Light Snow with Thunder	1728899
+Light Thunderstorms and Rain	1729031
+Mist	1729036
+Mostly Cloudy	1731492
+Mostly Cloudy / Windy	1731509
+N/A Precipitation	1731511
+Overcast	1735383
+Partly Cloudy	1736764
+Partly Cloudy / Windy	1736773
+Patches of Fog	1736805
+Rain	1737021
+Rain / Windy	1737022
+Rain Shower	1737024
+Scattered Clouds	1739123
+Smoke	1739129
+Snow	1739165
+Snow / Windy	1739166
+Squalls	1739167
+T-Storm	1739197
+Thunder	1739216
+Thunder in the Vicinity	1739235
+Thunderstorm	1739285
+Thunderstorms and Rain	1739319
+Wintry Mix	1739323
+Blowing Snow	1739328
+Clear	1740672
+Cloudy	1740969
+Cloudy / Windy	1740970
+Fair	1741468
+Fair / Windy	1741476
+Fog	1741523
+Haze	1741537
+Heavy Drizzle	1741538
+Heavy Rain	1741570
+Heavy Snow	1741600
+Heavy T-Storm	1741603
+Heavy Thunderstorms and Rain	1741606
+Light Drizzle	1741621
+Light Freezing Drizzle	1741630
+Light Freezing Fog	1741636
+Light Freezing Rain	1741704
+Light Ice Pellets	1741708
+Light Rain	1742274
+Light Rain / Windy	1742275
+Light Rain Showers	1742278
+Light Rain with Thunder	1742279
+Light Snow	1742946
+Light Snow and Sleet	1742947
+Light Thunderstorms and Rain	1742949
+Mist	1742951
+Mostly Cloudy	1743903
+Mostly Cloudy / Windy	1743906
+N/A Precipitation	1743907
+Overcast	1745043
+Partly Cloudy	1745647
+Partly Cloudy / Windy	1745650
+Patches of Fog	1745656
+Rain	1745782
+Rain / Windy	1745783
+Scattered Clouds	1746169
+Showers in the Vicinity	1746171
+Sleet	1746172
+Snow	1746264
+Snow and Sleet	1746266
+T-Storm	1746269
+Thunder	1746270
+Thunder in the Vicinity	1746274
+Thunderstorm	1746275
+Thunderstorms and Rain	1746277
+Wintry Mix	1746294
+Blowing Snow	1746308
+Clear	1759168
+Cloudy	1761005
+Cloudy / Windy	1761021
+Drizzle	1761224
+Drizzle and Fog	1761225
+Fair	1765090
+Fair / Windy	1765141
+Fog	1765477
+Haze	1765648
+Heavy Blowing Snow	1765650
+Heavy Drizzle	1765656
+Heavy Freezing Rain	1765657
+Heavy Ice Pellets	1765660
+Heavy Rain	1765971
+Heavy Rain / Windy	1765973
+Heavy Snow	1766049
+Heavy T-Storm	1766070
+Heavy T-Storm / Windy	1766071
+Heavy Thunderstorms and Rain	1766113
+Ice Pellets	1766156
+Light Drizzle	1766550
+Light Freezing Fog	1766567
+Light Freezing Rain	1766661
+Light Ice Pellets	1766677
+Light Rain	1770106
+Light Rain / Windy	1770117
+Light Rain Showers	1770118
+Light Rain with Thunder	1770156
+Light Snow	1770997
+Light Thunderstorms and Rain	1771053
+Mist	1771082
+Mostly Cloudy	1777649
+Mostly Cloudy / Windy	1777685
+N/A Precipitation	1777689
+Overcast	1786079
+Partly Cloudy	1789635
+Partly Cloudy / Windy	1789657
+Patches of Fog	1789662
+Rain	1790689
+Rain / Windy	1790691
+Scattered Clouds	1793684
+Shallow Fog	1793761
+Smoke	1793772
+Snow	1793995
+Snow and Sleet	1793996
+Squalls	1793997
+T-Storm	1794026
+T-Storm / Windy	1794027
+Thunder	1794050
+Thunder / Windy	1794052
+Thunder in the Vicinity	1794076
+Thunderstorm	1794101
+Thunderstorms and Rain	1794143
+Thunderstorms and Snow	1794144
+Wintry Mix	1794173
+Blowing Dust / Windy	1794176
+Clear	1795012
+Cloudy	1795108
+Cloudy / Windy	1795115
+Drizzle	1795116
+Fair	1795584
+Fair / Windy	1795600
+Fog	1795609
+Haze	1795617
+Haze / Windy	1795618
+Heavy Rain	1795625
+Heavy Snow	1795627
+Heavy T-Storm	1795628
+Heavy Thunderstorms and Rain	1795629
+Light Drizzle	1795631
+Light Drizzle / Windy	1795632
+Light Freezing Fog	1795634
+Light Rain	1795756
+Light Rain / Windy	1795759
+Light Rain with Thunder	1795761
+Light Snow	1795806
+Light Snow / Windy	1795807
+Light Thunderstorms and Rain	1795818
+Mostly Cloudy	1796959
+Mostly Cloudy / Windy	1796972
+Overcast	1797272
+Partial Fog / Windy	1797273
+Partly Cloudy	1798474
+Partly Cloudy / Windy	1798494
+Patches of Fog	1798496
+Rain	1798508
+Rain Showers	1798510
+Scattered Clouds	1799134
+Shallow Fog	1799135
+Showers in the Vicinity	1799136
+Snow	1799144
+T-Storm	1799148
+Thunder	1799150
+Thunder / Windy	1799151
+Thunder in the Vicinity	1799157
+Thunderstorm	1799166
+Widespread Dust	1799171
+Wintry Mix	1799172
+Blowing Dust	1799173
+Blowing Dust / Windy	1799174
+Clear	1802191
+Cloudy	1802470
+Cloudy / Windy	1802483
+Fair	1803650
+Fair / Windy	1803667
+Fog	1803681
+Funnel Cloud	1803682
+Haze	1803701
+Haze / Windy	1803702
+Heavy Rain	1803710
+Heavy Snow	1803719
+Light Drizzle	1803728
+Light Freezing Fog	1803730
+Light Haze	1803731
+Light Rain	1803923
+Light Rain / Windy	1803926
+Light Rain with Thunder	1803935
+Light Snow	1804188
+Light Snow / Windy	1804190
+Light Snow Showers	1804191
+Light Thunderstorms and Rain	1804196
+Mostly Cloudy	1805769
+Mostly Cloudy / Windy	1805793
+N/A Precipitation	1805800
+Overcast	1806314
+Partly Cloudy	1807848
+Partly Cloudy / Windy	1807864
+Patches of Fog	1807865
+Rain	1807913
+Rain / Windy	1807915
+Scattered Clouds	1808541
+Small Hail	1808542
+Smoke	1808556
+Snow	1808589
+T-Storm	1808597
+Thunder in the Vicinity	1808603
+Thunderstorm	1808611
+Thunderstorms and Rain	1808613
+Wintry Mix	1808615
+Blowing Snow	1808688
+Clear	1831835
+Cloudy	1837728
+Cloudy / Windy	1837828
+Drizzle	1837900
+Drizzle and Fog	1837921
+Fair	1848333
+Fair / Windy	1848632
+Fog	1849829
+Fog / Windy	1849833
+Freezing Rain	1849834
+Haze	1850215
+Haze / Windy	1850216
+Heavy Drizzle	1850255
+Heavy Rain	1850786
+Heavy Rain / Windy	1850796
+Heavy Sleet	1850802
+Heavy Snow	1851078
+Heavy Snow / Windy	1851080
+Heavy T-Storm	1851110
+Heavy T-Storm / Windy	1851112
+Heavy Thunderstorms and Rain	1851162
+Heavy Thunderstorms and Snow	1851165
+Ice Pellets	1851178
+Light Blowing Snow	1851181
+Light Drizzle	1852141
+Light Drizzle / Windy	1852142
+Light Freezing Drizzle	1852186
+Light Freezing Fog	1852246
+Light Freezing Rain	1852532
+Light Ice Pellets	1852605
+Light Rain	1861424
+Light Rain / Windy	1861505
+Light Rain Showers	1861507
+Light Rain with Thunder	1861571
+Light Sleet	1861573
+Light Snow	1867614
+Light Snow / Windy	1867627
+Light Snow Shower	1867628
+Light Snow Showers	1867629
+Light Thunderstorms and Rain	1867842
+Light Thunderstorms and Snow	1867843
+Mist	1867987
+Mostly Cloudy	1895095
+Mostly Cloudy / Windy	1895319
+N/A Precipitation	1895324
+Overcast	1915413
+Partly Cloudy	1931288
+Partly Cloudy / Windy	1931389
+Patches of Fog	1931525
+Rain	1933114
+Rain / Windy	1933130
+Scattered Clouds	1943807
+Shallow Fog	1943887
+Small Hail	1943891
+Snow	1944582
+Squalls	1944585
+T-Storm	1944624
+T-Storm / Windy	1944631
+Thunder	1944667
+Thunder / Windy	1944669
+Thunder in the Vicinity	1944706
+Thunderstorm	1944782
+Thunderstorms and Rain	1944828
+Thunderstorms and Snow	1944829
+Wintry Mix	1944939
+Wintry Mix / Windy	1944941
+Blowing Snow	1944944
+Clear	1957611
+Cloudy	1959670
+Cloudy / Windy	1959764
+Drizzle	1959825
+Fair	1963701
+Fair / Windy	1963741
+Fog	1964295
+Haze	1964611
+Haze / Windy	1964613
+Heavy Drizzle	1964620
+Heavy Rain	1964839
+Heavy Rain / Windy	1964841
+Heavy Snow	1964852
+Heavy T-Storm	1964857
+Heavy Thunderstorms and Rain	1964908
+Light Drizzle	1965147
+Light Drizzle / Windy	1965149
+Light Freezing Drizzle	1965177
+Light Freezing Fog	1965210
+Light Freezing Rain	1965306
+Light Freezing Rain / Windy	1965308
+Light Ice Pellets	1965313
+Light Rain	1969338
+Light Rain / Windy	1969371
+Light Rain Shower	1969372
+Light Rain Showers	1969409
+Light Rain with Thunder	1969433
+Light Snow	1971787
+Light Snow / Windy	1971800
+Light Snow Grains	1971803
+Light Snow Showers	1971817
+Light Snow and Sleet	1971818
+Light Thunderstorm	1971819
+Light Thunderstorms and Rain	1971942
+Light Thunderstorms and Snow	1971943
+Mist	1971996
+Mostly Cloudy	1979013
+Mostly Cloudy / Windy	1979043
+N/A Precipitation	1979044
+Overcast	1991156
+Partly Cloudy	1995098
+Partly Cloudy / Windy	1995111
+Patches of Fog	1995218
+Rain	1996087
+Rain / Windy	1996094
+Rain Showers	1996106
+Scattered Clouds	2000135
+Shallow Fog	2000169
+Small Hail	2000172
+Snow	2000267
+Snow / Windy	2000268
+Snow Showers	2000269
+Squalls	2000270
+T-Storm	2000303
+T-Storm / Windy	2000304
+Thunder	2000314
+Thunder / Windy	2000315
+Thunder in the Vicinity	2000343
+Thunderstorm	2000394
+Thunderstorms and Rain	2000467
+Wintry Mix	2000486
+Clear	2015153
+Cloudy	2017282
+Cloudy / Windy	2017417
+Drizzle	2017429
+Drizzle / Windy	2017431
+Fair	2024923
+Fair / Windy	2025435
+Fog	2025722
+Haze	2025833
+Haze / Windy	2025840
+Heavy Drizzle	2025842
+Heavy Rain	2026025
+Heavy Rain / Windy	2026029
+Heavy Snow	2026033
+Heavy T-Storm	2026104
+Heavy T-Storm / Windy	2026128
+Heavy Thunderstorms and Rain	2026215
+Heavy Thunderstorms with Small Hail	2026221
+Ice Pellets	2026227
+Light Drizzle	2026511
+Light Drizzle / Windy	2026512
+Light Freezing Drizzle	2026659
+Light Freezing Fog	2026666
+Light Freezing Rain	2026784
+Light Ice Pellets	2026785
+Light Rain	2028597
+Light Rain / Windy	2028670
+Light Rain Showers	2028671
+Light Rain with Thunder	2028776
+Light Snow	2028908
+Light Snow / Windy	2028913
+Light Thunderstorms and Rain	2029042
+Mist	2029065
+Mostly Cloudy	2035458
+Mostly Cloudy / Windy	2035630
+N/A Precipitation	2035638
+Overcast	2042202
+Partly Cloudy	2047212
+Partly Cloudy / Windy	2047299
+Patches of Fog	2047300
+Rain	2047769
+Rain / Windy	2047781
+Scattered Clouds	2050704
+Shallow Fog	2050705
+Smoke	2050706
+Snow	2050718
+Squalls	2050721
+T-Storm	2050847
+T-Storm / Windy	2050850
+Thunder	2050899
+Thunder / Windy	2050902
+Thunder in the Vicinity	2050989
+Thunderstorm	2051075
+Thunderstorms and Rain	2051125
+Tornado	2051126
+Volcanic Ash	2051135
+Wintry Mix	2051142
+Wintry Mix / Windy	2051143
+Clear	2063224
+Cloudy	2070498
+Cloudy / Windy	2070640
+Drizzle	2070686
+Fair	2081011
+Fair / Windy	2081226
+Fog	2082674
+Fog / Windy	2082675
+Freezing Rain / Windy	2082676
+Funnel Cloud	2082677
+Haze	2083370
+Haze / Windy	2083380
+Heavy Drizzle	2083387
+Heavy Rain	2083494
+Heavy Rain / Windy	2083506
+Heavy Snow	2083578
+Heavy T-Storm	2083580
+Heavy T-Storm / Windy	2083584
+Light Drizzle	2083712
+Light Drizzle / Windy	2083716
+Light Freezing Fog	2083954
+Light Freezing Rain	2084026
+Light Rain	2090544
+Light Rain / Windy	2090663
+Light Rain with Thunder	2090678
+Light Snow	2092266
+Light Snow / Windy	2092268
+Light Thunderstorms and Rain	2092275
+Mist	2092379
+Mostly Cloudy	2101037
+Mostly Cloudy / Windy	2101085
+N/A Precipitation	2101088
+Overcast	2110746
+Partly Cloudy	2116505
+Partly Cloudy / Windy	2116561
+Patches of Fog	2116629
+Rain	2117526
+Rain / Windy	2117575
+Scattered Clouds	2119639
+Shallow Fog	2119686
+Smoke	2120365
+Snow	2120755
+T-Storm	2120774
+T-Storm / Windy	2120775
+Thunder	2120786
+Thunder / Windy	2120792
+Thunder in the Vicinity	2120831
+Thunderstorm	2120836
+Wintry Mix	2120863
+Blowing Snow	2120880
+Clear	2149567
+Cloudy	2152923
+Cloudy / Windy	2152974
+Drizzle	2153003
+Drizzle and Fog	2153005
+Fair	2159920
+Fair / Windy	2159972
+Fog	2160913
+Freezing Rain	2160915
+Haze	2161621
+Heavy Drizzle	2161625
+Heavy Rain	2162000
+Heavy Rain Showers	2162001
+Heavy Snow	2162092
+Heavy T-Storm	2162110
+Heavy Thunderstorms and Rain	2162143
+Ice Pellets	2162146
+Light Drizzle	2162335
+Light Drizzle / Windy	2162337
+Light Freezing Drizzle	2162351
+Light Freezing Fog	2162378
+Light Freezing Rain	2162543
+Light Ice Pellets	2162548
+Light Rain	2167381
+Light Rain / Windy	2167398
+Light Rain Shower	2167399
+Light Rain Showers	2167401
+Light Rain with Thunder	2167430
+Light Snow	2169525
+Light Snow / Windy	2169535
+Light Thunderstorms and Rain	2169598
+Mist	2169666
+Mostly Cloudy	2179072
+Mostly Cloudy / Windy	2179096
+N/A Precipitation	2179109
+Overcast	2197294
+Partly Cloudy	2202304
+Partly Cloudy / Windy	2202323
+Patches of Fog	2202339
+Rain	2203335
+Rain / Windy	2203336
+Scattered Clouds	2209515
+Shallow Fog	2209518
+Showers in the Vicinity	2209525
+Smoke	2209526
+Snow	2209783
+Snow / Windy	2209784
+T-Storm	2209821
+T-Storm / Windy	2209822
+Thunder	2209835
+Thunder in the Vicinity	2209870
+Thunderstorm	2209914
+Thunderstorms and Rain	2209934
+Wintry Mix	2209984
+Blowing Snow	2209987
+Clear	2211456
+Cloudy	2211861
+Cloudy / Windy	2211873
+Drizzle	2211874
+Fair	2212615
+Fair / Windy	2212620
+Fog	2212685
+Haze	2212698
+Heavy Rain	2212777
+Heavy Rain / Windy	2212778
+Heavy Snow	2212839
+Heavy T-Storm	2212841
+Heavy T-Storm / Windy	2212843
+Heavy Thunderstorms and Rain	2212847
+Light Drizzle	2212897
+Light Freezing Drizzle	2212898
+Light Freezing Fog	2212899
+Light Freezing Rain	2212907
+Light Ice Pellets	2212914
+Light Rain	2213827
+Light Rain / Windy	2213834
+Light Rain Shower	2213835
+Light Rain Showers	2213836
+Light Rain with Thunder	2213839
+Light Snow	2214028
+Light Snow / Windy	2214029
+Light Thunderstorms and Rain	2214036
+Mist	2214038
+Mostly Cloudy	2216185
+Mostly Cloudy / Windy	2216209
+Overcast	2217644
+Partly Cloudy	2218912
+Partly Cloudy / Windy	2218920
+Patches of Fog	2218986
+Rain	2219216
+Rain / Windy	2219219
+Scattered Clouds	2219990
+Shallow Fog	2219992
+Snow	2220028
+Snow Showers	2220029
+T-Storm	2220032
+Thunder	2220034
+Thunder in the Vicinity	2220036
+Thunderstorm	2220039
+Thunderstorms and Rain	2220043
+Wintry Mix	2220048
+Clear	2264322
+Cloudy	2269831
+Cloudy / Windy	2269862
+Drizzle	2270179
+Drizzle and Fog	2270180
+Fair	2295842
+Fair / Windy	2295889
+Fog	2297552
+Fog / Windy	2297559
+Haze	2298340
+Haze / Windy	2298341
+Heavy Drizzle	2298394
+Heavy Rain	2299402
+Heavy Rain / Windy	2299415
+Heavy Snow	2299419
+Heavy T-Storm	2299490
+Heavy T-Storm / Windy	2299500
+Heavy Thunderstorms and Rain	2299669
+Light Drizzle	2300279
+Light Freezing Drizzle	2300283
+Light Freezing Fog	2300307
+Light Freezing Rain	2300343
+Light Hail	2300344
+Light Rain	2307503
+Light Rain / Windy	2307533
+Light Rain Shower	2307534
+Light Rain Showers	2307540
+Light Rain with Thunder	2307628
+Light Snow	2307797
+Light Thunderstorms and Rain	2308004
+Mist	2308122
+Mostly Cloudy	2323311
+Mostly Cloudy / Windy	2323339
+N/A Precipitation	2323358
+Overcast	2339057
+Partly Cloudy	2349551
+Partly Cloudy / Windy	2349569
+Patches of Fog	2349872
+Rain	2352524
+Rain / Windy	2352541
+Rain Showers	2352543
+Scattered Clouds	2362413
+Shallow Fog	2362557
+Smoke	2362592
+Snow	2362622
+T-Storm	2362827
+T-Storm / Windy	2362833
+Thunder	2362948
+Thunder / Windy	2362956
+Thunder in the Vicinity	2363273
+Thunderstorm	2363544
+Thunderstorms and Rain	2363650
+Wintry Mix	2363655
+Clear	2363667
+Cloudy	2363673
+Fair	2363679
+Fog	2363680
+Haze	2363681
+Light Rain	2363684
+Light Snow	2363690
+Mostly Cloudy	2363694
+Overcast	2363705
+Partly Cloudy	2363710
+Scattered Clouds	2363712
+Smoke	2363713
+Snow	2363714
+Snow / Windy	2363715
+Clear	2369040
+Cloudy	2371746
+Cloudy / Windy	2371763
+Drizzle	2371769
+Drizzle and Fog	2371770
+Fair	2376815
+Fair / Windy	2376832
+Fog	2377208
+Funnel Cloud	2377213
+Haze	2377365
+Heavy Rain	2377714
+Heavy T-Storm	2377749
+Heavy T-Storm / Windy	2377760
+Heavy Thunderstorms and Rain	2377807
+Ice Pellets	2377813
+Light Drizzle	2378307
+Light Freezing Drizzle	2378313
+Light Freezing Fog	2378323
+Light Freezing Rain	2378344
+Light Ice Pellets	2378345
+Light Rain	2382471
+Light Rain / Windy	2382473
+Light Rain with Thunder	2382518
+Light Snow	2382785
+Light Thunderstorms and Rain	2382938
+Mist	2383034
+Mostly Cloudy	2397316
+Mostly Cloudy / Windy	2397346
+Overcast	2406749
+Partly Cloudy	2414387
+Partly Cloudy / Windy	2414400
+Patches of Fog	2414757
+Rain	2415775
+Rain / Windy	2415786
+Rain Showers	2415792
+Scattered Clouds	2421403
+Shallow Fog	2421427
+Showers in the Vicinity	2421433
+Smoke	2421436
+Snow	2421475
+T-Storm	2421528
+T-Storm / Windy	2421529
+Thunder	2421578
+Thunder / Windy	2421582
+Thunder in the Vicinity	2421623
+Thunderstorm	2421737
+Thunderstorms and Rain	2421797
+Wintry Mix	2421803
+Blowing Dust	2421806
+Blowing Dust / Windy	2421834
+Clear	2498587
+Cloudy	2507750
+Cloudy / Windy	2507969
+Drizzle	2508168
+Drizzle and Fog	2508174
+Fair	2532820
+Fair / Windy	2533061
+Fog	2535364
+Haze	2537553
+Haze / Windy	2537558
+Heavy Drizzle	2537574
+Heavy Rain	2538474
+Heavy Rain / Windy	2538500
+Heavy Rain Showers	2538506
+Heavy T-Storm	2538711
+Heavy T-Storm / Windy	2538727
+Heavy Thunderstorms and Rain	2539100
+Heavy Thunderstorms with Small Hail	2539101
+Light Drizzle	2540422
+Light Drizzle / Windy	2540426
+Light Fog	2540429
+Light Freezing Drizzle	2540455
+Light Freezing Fog	2540458
+Light Freezing Rain	2540534
+Light Haze	2540537
+Light Ice Pellets	2540550
+Light Rain	2551035
+Light Rain / Windy	2551130
+Light Rain Showers	2551135
+Light Rain with Thunder	2551491
+Light Snow	2551632
+Light Snow / Windy	2551634
+Light Thunderstorms and Rain	2552465
+Mist	2552689
+Mostly Cloudy	2600637
+Mostly Cloudy / Windy	2600890
+N/A Precipitation	2600892
+Overcast	2646027
+Partly Cloudy	2683086
+Partly Cloudy / Windy	2683229
+Patches of Fog	2683358
+Rain	2685815
+Rain / Windy	2685840
+Rain Shower	2685842
+Rain Showers	2685845
+Sand	2685859
+Scattered Clouds	2711215
+Shallow Fog	2711370
+Showers in the Vicinity	2711378
+Smoke	2711387
+Snow	2711413
+Snow Grains	2711417
+T-Storm	2711667
+T-Storm / Windy	2711691
+Thunder	2711947
+Thunder / Windy	2711958
+Thunder and Hail / Windy	2711959
+Thunder in the Vicinity	2712057
+Thunderstorm	2712643
+Thunderstorms and Rain	2713038
+Thunderstorms and Snow	2713039
+Widespread Dust	2713100
+Wintry Mix	2713102
+Blowing Snow	2713105
+Clear	2721215
+Cloudy	2723853
+Cloudy / Windy	2724052
+Drizzle	2724055
+Fair	2729708
+Fair / Windy	2729774
+Fog	2729959
+Fog / Windy	2729960
+Haze	2730146
+Haze / Windy	2730148
+Heavy Rain	2730176
+Heavy Snow	2730197
+Heavy Snow / Windy	2730199
+Heavy T-Storm	2730209
+Heavy T-Storm / Windy	2730210
+Heavy Thunderstorms and Rain	2730212
+Light Drizzle	2730215
+Light Freezing Drizzle	2730216
+Light Freezing Fog	2730260
+Light Freezing Rain	2730262
+Light Rain	2731721
+Light Rain / Windy	2731780
+Light Rain Shower	2731784
+Light Rain with Thunder	2731828
+Light Snow	2733474
+Light Snow / Windy	2733499
+Light Snow Grains	2733501
+Light Thunderstorms and Rain	2733516
+Light Thunderstorms and Snow	2733519
+Low Drifting Snow	2733521
+Mist	2733558
+Mostly Cloudy	2739813
+Mostly Cloudy / Windy	2739941
+N/A Precipitation	2739948
+Overcast	2744087
+Partly Cloudy	2749093
+Partly Cloudy / Windy	2749180
+Patches of Fog	2749229
+Rain	2749502
+Rain / Windy	2749504
+Scattered Clouds	2751103
+Shallow Fog	2751104
+Showers in the Vicinity	2751112
+Small Hail	2751118
+Smoke	2751156
+Snow	2751266
+Snow / Windy	2751267
+T-Storm	2751294
+T-Storm / Windy	2751300
+Thunder	2751321
+Thunder / Windy	2751322
+Thunder in the Vicinity	2751381
+Thunderstorm	2751388
+Thunderstorms and Rain	2751394
+Widespread Dust	2751395
+Wintry Mix	2751439
+Blowing Snow	2751444
+Clear	2771025
+Cloudy	2773950
+Cloudy / Windy	2773995
+Drizzle	2774099
+Drizzle / Windy	2774100
+Drizzle and Fog	2774102
+Fair	2782054
+Fair / Windy	2782094
+Fog	2782587
+Haze	2782835
+Heavy Drizzle	2782854
+Heavy Rain	2783389
+Heavy Rain / Windy	2783390
+Heavy Snow	2783406
+Heavy T-Storm	2783436
+Heavy T-Storm / Windy	2783442
+Heavy Thunderstorms and Rain	2783512
+Ice Pellets	2783517
+Light Drizzle	2783936
+Light Fog	2783937
+Light Freezing Drizzle	2783946
+Light Freezing Fog	2783969
+Light Freezing Rain	2784020
+Light Ice Pellets	2784031
+Light Rain	2788531
+Light Rain / Windy	2788554
+Light Rain with Thunder	2788602
+Light Snow	2789163
+Light Thunderstorms and Rain	2789253
+Mist	2789293
+Mostly Cloudy	2800802
+Mostly Cloudy / Windy	2800845
+N/A Precipitation	2800848
+Overcast	2812676
+Partly Cloudy	2819504
+Partly Cloudy / Windy	2819529
+Patches of Fog	2819577
+Rain	2820766
+Rain / Windy	2820771
+Scattered Clouds	2826201
+Shallow Fog	2826231
+Snow	2826334
+Squalls	2826337
+T-Storm	2826389
+T-Storm / Windy	2826393
+Thunder	2826469
+Thunder / Windy	2826471
+Thunder in the Vicinity	2826536
+Thunderstorm	2826644
+Thunderstorms and Rain	2826676
+Wintry Mix	2826692
+Wintry Mix / Windy	2826695
+Clear	2826777
+Cloudy	2826808
+Drizzle	2826809
+Fair	2826869
+Fog	2826874
+Haze	2826877
+Heavy Rain	2826878
+Heavy Snow	2826881
+Light Drizzle	2826888
+Light Freezing Fog	2826889
+Light Freezing Rain	2826892
+Light Rain	2826933
+Light Rain / Windy	2826934
+Light Snow	2827025
+Mist	2827026
+Mostly Cloudy	2827090
+Overcast	2827193
+Partly Cloudy	2827219
+Rain	2827229
+Scattered Clouds	2827256
+Snow	2827265
+Thunderstorms and Rain	2827266
+Wintry Mix	2827269
+Clear	2841249
+Cloudy	2844897
+Cloudy / Windy	2844916
+Drizzle	2844923
+Fair	2847757
+Fair / Windy	2847765
+Fog	2848313
+Haze	2849057
+Heavy Drizzle	2849059
+Heavy Rain	2849113
+Heavy Snow	2849116
+Heavy T-Storm	2849117
+Light Drizzle	2849406
+Light Freezing Drizzle	2849407
+Light Freezing Fog	2849483
+Light Freezing Rain	2849501
+Light Ice Pellets	2849502
+Light Rain	2856690
+Light Rain / Windy	2856699
+Light Rain Showers	2856703
+Light Rain with Thunder	2856705
+Light Snow	2857378
+Light Thunderstorms and Rain	2857389
+Mist	2857430
+Mostly Cloudy	2866587
+Mostly Cloudy / Windy	2866595
+N/A Precipitation	2866596
+Overcast	2879420
+Partly Cloudy	2883488
+Partly Cloudy / Windy	2883494
+Patches of Fog	2883571
+Rain	2884090
+Scattered Clouds	2887653
+Shallow Fog	2887660
+Small Hail	2887665
+Smoke	2888082
+Snow	2888161
+Squalls	2888162
+T-Storm	2888167
+Thunder in the Vicinity	2888169
+Thunderstorm	2888174
+Thunderstorms and Rain	2888179
+Wintry Mix	2888183
+Blowing Snow	2888189
+Clear	2892024
+Cloudy	2893160
+Cloudy / Windy	2893189
+Drizzle	2893231
+Drizzle and Fog	2893241
+Fair	2894674
+Fair / Windy	2894689
+Fog	2894923
+Haze	2895123
+Heavy Drizzle	2895125
+Heavy Rain	2895167
+Heavy Rain / Windy	2895168
+Heavy Snow	2895187
+Heavy Snow / Windy	2895188
+Heavy Snow with Thunder	2895194
+Heavy T-Storm	2895199
+Heavy Thunderstorms and Rain	2895206
+Light Drizzle	2895369
+Light Freezing Drizzle	2895391
+Light Freezing Fog	2895403
+Light Freezing Rain	2895425
+Light Freezing Rain / Windy	2895426
+Light Ice Pellets	2895427
+Light Rain	2896208
+Light Rain / Windy	2896221
+Light Rain Shower	2896223
+Light Rain Showers	2896225
+Light Rain with Thunder	2896243
+Light Snow	2897412
+Light Snow / Windy	2897423
+Light Snow Grains	2897424
+Light Thunderstorms and Rain	2897447
+Mist	2897458
+Mostly Cloudy	2899821
+Mostly Cloudy / Windy	2899841
+N/A Precipitation	2899846
+Overcast	2902827
+Partly Cloudy	2904061
+Partly Cloudy / Windy	2904075
+Rain	2904310
+Rain / Windy	2904312
+Scattered Clouds	2905499
+Snow	2905610
+T-Storm	2905626
+T-Storm / Windy	2905631
+Thunder	2905638
+Thunder in the Vicinity	2905641
+Thunderstorm	2905653
+Thunderstorms and Rain	2905660
+Wintry Mix	2905671
+Clear	2906101
+Cloudy	2906166
+Fair	2906326
+Fog	2906369
+Haze	2906380
+Heavy Rain	2906404
+Heavy Thunderstorms and Rain	2906417
+Light Drizzle	2906426
+Light Freezing Drizzle	2906431
+Light Freezing Fog	2906433
+Light Freezing Rain	2906436
+Light Rain	2906683
+Light Rain with Thunder	2906688
+Light Snow	2906764
+Light Thunderstorms and Rain	2906785
+Mist	2906790
+Mostly Cloudy	2907094
+Overcast	2907463
+Partly Cloudy	2907617
+Partly Cloudy / Windy	2907618
+Patches of Fog	2907619
+Rain	2907684
+Scattered Clouds	2907886
+Snow	2907892
+T-Storm	2907893
+Thunder	2907894
+Thunder in the Vicinity	2907897
+Thunderstorm	2907912
+Thunderstorms and Rain	2907917
+Clear	2908050
+Cloudy	2908094
+Cloudy / Windy	2908096
+Fair	2908130
+Fair / Windy	2908137
+Fog	2908139
+Haze	2908148
+Heavy Snow	2908150
+Light Freezing Fog	2908153
+Light Rain	2908158
+Light Rain Showers	2908160
+Light Snow	2908208
+Light Snow / Windy	2908214
+Light Snow Showers	2908217
+Mist	2908219
+Mostly Cloudy	2908248
+N/A Precipitation	2908249
+Overcast	2908346
+Partly Cloudy	2908374
+Partly Cloudy / Windy	2908378
+Rain	2908379
+Scattered Clouds	2908393
+Snow	2908401
+Thunderstorm	2908402
+Wintry Mix	2908403
