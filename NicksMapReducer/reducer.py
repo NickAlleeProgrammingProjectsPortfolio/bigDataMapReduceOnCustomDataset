@@ -17,15 +17,16 @@ tempAdder = 0
 for line in input:
     data = line.strip().split("\t")
     print(data)
-    city, state, temp = data
-    if city != currentCity:
-        if currentCity:
-            output.write("\n" + city + "\t" + state + "\t" + str(tempAdder/count))
-        tempAdder = 0
-        count = 0
-        currentCity = city
-    tempAdder += float(temp)
-    count +=1
+    if len(data) == 3:
+        city, state, temp = data
+        if city != currentCity:
+            if currentCity:
+                output.write("\n" + city + "\t" + state + "\t" + str(tempAdder/count))
+            tempAdder = 0
+            count = 0
+            currentCity = city
+        tempAdder += float(temp)
+        count +=1
 output.write("\n" + city + "\t" + state + "\t" + str(tempAdder/count))
     
 """
