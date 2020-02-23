@@ -50,9 +50,9 @@ For each city I will find the average temperature.
 1. Mapper Input - Us_Accidents_Dec19.txt
 2. Mapper Output - mapped.txt
 3. Reducer Output - reduced.txt
-4. Best Chart Type - For this i decided to go with a histogram. The reduced data is still relativly full of different categories. due to this i chose to use a histogram showing the most average, average temperatures. the histogram is located here: https://github.com/NickAlleeProgrammingProjectsPortfolio/bigDataMapReduceOnCustomDataset/blob/master/NicksMapReducer/averageTempsHistogram.JPG
+4. Best Chart Type - For this i decided to go with a histogram. The reduced data is still relativly full of different categories. due to this i chose to use a histogram showing the most average, average temperatures. the histogram is located here: https://github.com/NickAlleeProgrammingProjectsPortfolio/bigDataMapReduceOnCustomDataset/blob/master/NicksMapReducer/HistogramOfAverageTemperatures.JPG
 
-  I have also made a neat table of the results here:
+  I have also made a neat table of the results in an excel file here: https://github.com/NickAlleeProgrammingProjectsPortfolio/bigDataMapReduceOnCustomDataset/blob/master/NicksMapReducer/graphicOfReducedData2.xlsx
   
 
 ### Umesh Singh
