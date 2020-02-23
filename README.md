@@ -47,10 +47,13 @@ For all states, I will find the highest severity.
 For each city I will find the average temperature.
 
 ##### The Solution
-1. Mapper Input - 
-2. Mapper Output - 
-3. Reducer Output - 
-4. Best Chart Type - 
+1. Mapper Input - Us_Accidents_Dec19.txt
+2. Mapper Output - mapped.txt
+3. Reducer Output - reduced.txt
+4. Best Chart Type - For this i decided to go with a histogram. The reduced data is still relativly full of different categories. due to this i chose to use a histogram showing the most average, average temperatures. the histogram is located here: https://github.com/NickAlleeProgrammingProjectsPortfolio/bigDataMapReduceOnCustomDataset/blob/master/NicksMapReducer/averageTempsHistogram.JPG
+
+  I have also made a neat table of the results here:
+  
 
 ### Umesh Singh
 
