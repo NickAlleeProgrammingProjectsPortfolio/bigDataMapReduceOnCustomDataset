@@ -4,6 +4,7 @@ reduced = open("reduced.txt", "w")
 thisKey = ""
 thisValue = 0
 count = 0
+numOfLines = 1
 
 for line in unreduced:
   data = line.strip().split('\t')
@@ -13,6 +14,7 @@ for line in unreduced:
     if thisKey:
       # output the last key value pair result
       reduced.write(thisKey + '\t' + str(thisValue/count)+'\n')
+      numOfLines += 1
 
     # start over when changing keys
     thisKey = state
@@ -25,6 +27,9 @@ for line in unreduced:
 
 # output the final entry when done
 reduced.write(thisKey + '\t' + str(thisValue/count)+'\n')
+numOfLines += 1
 
 unreduced.close()
 reduced.close()
+
+print("Reducer complete. reduced.txt created with", numOfLines, "lines")
