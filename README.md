@@ -2,10 +2,6 @@
 map reduce problem for Big Data Class
 ## Links
 
-Local:
-
-Original:
-
 ## Introduction
 For this project, we will be exploring the statistics of US accidents in December of 2019. We will use this data set to tell us a story which can be important to improving future road safety.
 
