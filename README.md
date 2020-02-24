@@ -41,7 +41,7 @@ For all states, I will find the highest severity.
 3. Reducer Output - reduced.txt
 4. Best Chart Type - The best way I could find to visualize this data was to use a plain old bar chart, with the states ordered in descending order of accident severity. It's the best way to see where a state falls in comparison to the rest, as well as see if there is a general trend.
 
-Here's the chart: ![Here](./sammysMapReducer/dataVisualization.jpg)
+Here's the chart: ![Here](./SammysMapReducer/dataVisualization.jpg)
 
 
 5. Commands used (in Powershell)
