@@ -6,7 +6,7 @@ count = 0
 
 for line in unreduced:
   data = line.strip().split('\t')
-  state, weather_condition = data
+  weather_condition, state = data
 
   if weather_condition != thisKey:
     if thisKey:
