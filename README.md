@@ -83,6 +83,6 @@ For all accidents, I will find most common weather.
 2. Mapper Output - mapped.txt
 3. Reducer Output - reduced.txt
 4. Best Chart Type - For this type of data I think bar graph is perfect visual representation. As I am only working with total number of accidents and weather condition. But both axis has huge number of data bar graph could prefectly represnt this data. The Data Visualizaion:
-![HERE](./UmeshMapReducer/dataGraph.jpg)
+![HERE](./UmeshMapReducer/dataGraph.PNG)
 
 5. Commands used: ``` python .\mapper.py ``` ``` python .\sorter.py ``` ``` python .\reducer.py ```
