@@ -65,17 +65,16 @@ For each city I will find the average temperature.
   I have also made a neat table of the results in an excel file here: https://github.com/NickAlleeProgrammingProjectsPortfolio/bigDataMapReduceOnCustomDataset/blob/master/NicksMapReducer/graphicOfReducedData2.xlsx
   
 5. Commands used
-  ''' 
+  ```
   python .\mapper.py
-  '''
-  '''
+  ```
+  ```
   python .\sorter.py
-  '''
-  '''
+  ```
+  ```
   python .\reducer.py
-  '''
+  ```
   
-
 ### Umesh Singh
 
 ##### The Question
@@ -91,4 +90,4 @@ https://github.com/NickAlleeProgrammingProjectsPortfolio/bigDataMapReduceOnCusto
 The final excel result can be found at:
 https://github.com/NickAlleeProgrammingProjectsPortfolio/bigDataMapReduceOnCustomDataset/blob/master/UmeshMapReducer/weatherData.xlsx
 
-5. Commands used: ''' python .\mapper.py ''' ''' python .\sorter.py ''' ''' python .\reducer.py '''
+5. Commands used: ``` python .\mapper.py ``` ``` python .\sorter.py ``` ``` python .\reducer.py ```
