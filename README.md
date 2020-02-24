@@ -83,7 +83,11 @@ For each city I will find the average temperature.
 For all accidents, I will find most common weather.
 
 ##### The Solution
-1. Mapper Input - 
-2. Mapper Output - 
-3. Reducer Output - 
-4. Best Chart Type - 
+1. Mapper Input - accidnets.txt
+2. Mapper Output - mapped.txt
+3. Reducer Output - reduced.txt
+4. Best Chart Type - For this type of data I think bar graph is perfect visual representation. As I am only working with total number of accidents and weather condition. But both axis has huge number of data bar graph could prefectly represnt this data. The Data Visualizaion can be found:
+
+The final excel result can be found at:
+
+5. Commands used: ''' python .\mapper.py ''' ''' python .\sorter.py ''' ''' python .\reducer.py '''
