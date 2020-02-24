@@ -45,15 +45,12 @@ Here's the chart: ![Here](./SammysMapReducer/dataVisualization.jpg)
 
 
 5. Commands used (in Powershell)
-  '''
+  ```
   python .\mapper.py
-  '''
-  '''
   python .\sorter.py
-  '''
-  '''
   python .\reducer.py
-  '''
+  ```
+
 ### Nick Alee
 
 ##### The Question
